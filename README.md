@@ -1,5 +1,7 @@
 # fsot-residual
 
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 Compress a message with the FSOT 2.1 engine, then restore it from that compressed state. The compressed state is phase, zoom, gauge, and the residual the law does not fix. Almost-perfect recompilation means the restored object matches the original inside a floor that was written down before the run.
 
 Author: Damian Arthur Palumbo. Repository: [dappalumbo91/fsot-residual](https://github.com/dappalumbo91/fsot-residual). This folder is the working project. It does not replace the engine. License: Apache 2.0, the same license as [FSOT-2.1-Lean](https://github.com/dappalumbo91/FSOT-2.1-Lean).
