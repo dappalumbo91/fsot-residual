@@ -1,0 +1,93 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one finer rung under the kept peak, only on quiet frames that already keep that peak",
+    "bands": {
+      "eminem_lose_yourself": "5.5-11",
+      "bruno_mars_just_the_way_you_are": "11-22"
+    },
+    "left_out": "Sublime stays ahead on its peak band. Clay was not set by the peak rule.",
+    "quiet_fraction": 0.15,
+    "kept": "loud frames, frames still rounding the peak away, b=8, and every other band stay",
+    "songs": [
+      "eminem_lose_yourself",
+      "bruno_mars_just_the_way_you_are"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "dial_band": 2,
+        "dial_name": "5.5-11",
+        "frames_raised": 4202,
+        "frames_quiet": 9659,
+        "frames": 55185,
+        "archive_bytes": 3451141,
+        "r24_bytes": 3415552,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.8726315885291689,
+        "ratio_vs_r24": 1.0104196920439215,
+        "under_opus": true,
+        "kbps": 86.18706117997228,
+        "opus_kbps": 98.76683621462936,
+        "mean_abs_error": 401.3838134573174,
+        "snr_db": 25.8403808985465,
+        "quiet15_snr_db": {
+          "0-2.8": 19.26084404091418,
+          "2.8-5.5": 9.757284581835957,
+          "5.5-11": 10.280635478878395,
+          "11-22": 6.534862944774966
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 21.029095429954342,
+          "2.8-5.5": 11.135722214123454,
+          "5.5-11": 8.663674696970029,
+          "11-22": 8.34699498096729
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r26\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "frames_raised": 5097,
+        "frames_quiet": 6424,
+        "frames": 37682,
+        "archive_bytes": 2765356,
+        "r24_bytes": 2681526,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 1.0088236077381585,
+        "ratio_vs_r24": 1.0312620500416554,
+        "under_opus": false,
+        "kbps": 101.14072538860104,
+        "opus_kbps": 100.25610484608352,
+        "mean_abs_error": 496.83686681926656,
+        "snr_db": 24.479389127944952,
+        "quiet15_snr_db": {
+          "0-2.8": 20.15795819425335,
+          "2.8-5.5": 9.180467145333647,
+          "5.5-11": 5.978394744290788,
+          "11-22": 6.671551671788363
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 19.861110779703807,
+          "2.8-5.5": 10.111747963891386,
+          "5.5-11": 7.134381867371268,
+          "11-22": 4.565641891234115
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r26\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    }
+  ]
+}

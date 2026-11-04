@@ -1,0 +1,111 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "predictor": "reversible mid/side, fixed second difference, zigzag uint32, four byte planes",
+    "why": "ideal order-1 of the first-difference residual is still over FLAC on every song",
+    "coder": "fspack.rans_encode static order-0",
+    "magic": "FS2D",
+    "not_done": "no third difference, no LPC, no coefficient fit, no playback wav",
+    "incumbent": "FLAC level 8 in codec_sizes.json"
+  },
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "row": {
+        "archive_bytes": 13353846,
+        "flac_bytes": 10659386,
+        "haar_q1_bytes": 20631098,
+        "ratio_vs_flac": 1.2527781618941278,
+        "ratio_vs_haar_q1": 0.6472678284015713,
+        "under_flac": false,
+        "seconds": 111.88244897959184,
+        "elapsed_s": 39.68
+      }
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "row": {
+        "archive_bytes": 40006807,
+        "flac_bytes": 36081830,
+        "haar_q1_bytes": 54243191,
+        "ratio_vs_flac": 1.1087798761869894,
+        "ratio_vs_haar_q1": 0.7375452340184042,
+        "under_flac": false,
+        "seconds": 261.5172562358277,
+        "elapsed_s": 100.58
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "row": {
+        "archive_bytes": 29186547,
+        "flac_bytes": 25589412,
+        "haar_q1_bytes": 42026921,
+        "ratio_vs_flac": 1.1405712253177211,
+        "ratio_vs_haar_q1": 0.6944726452837219,
+        "under_flac": false,
+        "seconds": 218.73333333333332,
+        "elapsed_s": 72.59
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "row": {
+        "archive_bytes": 40923743,
+        "flac_bytes": 29262719,
+        "haar_q1_bytes": 58717804,
+        "ratio_vs_flac": 1.3984942069122148,
+        "ratio_vs_haar_q1": 0.6969562928477366,
+        "under_flac": false,
+        "seconds": 320.3395918367347,
+        "elapsed_s": 86.07
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "row": {
+        "archive_bytes": 62246055,
+        "flac_bytes": 49466148,
+        "haar_q1_bytes": 86270876,
+        "ratio_vs_flac": 1.258356624008807,
+        "ratio_vs_haar_q1": 0.7215187544867401,
+        "under_flac": false,
+        "seconds": 439.3012244897959,
+        "elapsed_s": 147.5
+      }
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "row": {
+        "archive_bytes": 27998202,
+        "flac_bytes": 23262265,
+        "haar_q1_bytes": 39512150,
+        "ratio_vs_flac": 1.2035888164802524,
+        "ratio_vs_haar_q1": 0.7085972795709674,
+        "under_flac": false,
+        "seconds": 223.76,
+        "elapsed_s": 60.68
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "row": {
+        "archive_bytes": 24809255,
+        "flac_bytes": 22268030,
+        "haar_q1_bytes": 35316646,
+        "ratio_vs_flac": 1.1141198839771638,
+        "ratio_vs_haar_q1": 0.7024804960244526,
+        "under_flac": false,
+        "seconds": 175.49333333333334,
+        "elapsed_s": 67.53
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "stem": "cage_the_elephant_aint_no_rest",
+  "rule": "full-song octave with the most negative r16-minus-Opus gap; tie takes the lower band index; quiet slice is not the selector",
+  "samples": 7739256,
+  "candidate_band": 2,
+  "candidate_name": "5.5-11",
+  "bands": [
+    {
+      "band": 0,
+      "name": "0-2.8",
+      "full_r16": 27.946242998926554,
+      "full_opus": 17.368008681578186,
+      "full_gap": 10.578234317348368,
+      "quiet_r16": 16.56723301057458,
+      "quiet_opus": 15.955751191380665,
+      "quiet_gap": 0.611481819193914
+    },
+    {
+      "band": 1,
+      "name": "2.8-5.5",
+      "full_r16": 10.554966840960011,
+      "full_opus": 9.673890626142121,
+      "full_gap": 0.8810762148178899,
+      "quiet_r16": 5.150988284681107,
+      "quiet_opus": 9.564147509843055,
+      "quiet_gap": -4.413159225161948
+    },
+    {
+      "band": 2,
+      "name": "5.5-11",
+      "full_r16": 3.660957747387519,
+      "full_opus": 6.7951247068734215,
+      "full_gap": -3.1341669594859027,
+      "quiet_r16": 1.6915015878085449,
+      "quiet_opus": 7.7453381874030285,
+      "quiet_gap": -6.053836599594484
+    },
+    {
+      "band": 3,
+      "name": "11-22",
+      "full_r16": 0.036997855137247425,
+      "full_opus": 1.88051339572211,
+      "full_gap": -1.8435155405848627,
+      "quiet_r16": 0.02013529051591844,
+      "quiet_opus": 4.447590705989381,
+      "quiet_gap": -4.427455415473462
+    }
+  ]
+}

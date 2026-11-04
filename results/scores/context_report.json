@@ -1,0 +1,109 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "context": "sign(prev) * (1 + floor(log2(|prev|))), 0 if prev is 0",
+    "model": "one static order-0 rANS per octave band per context",
+    "coefficients": "unchanged from r8 for the wins and r9 for the misses",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 818052,
+        "source_pass": "r8",
+        "source_bytes": 889445,
+        "opus96_bytes": 1327328,
+        "ratio_vs_opus96": 0.616314882229562,
+        "ratio_vs_source": 0.9197330919843273,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\sublime_wrong_way_q2048.wav"
+      }
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 6540827,
+        "source_pass": "r9",
+        "source_bytes": 7037053,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 2.139799924560325,
+        "ratio_vs_source": 0.9294838336445669,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\skrillex_first_of_the_year_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 2549291,
+        "source_pass": "r9",
+        "source_bytes": 2813479,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 0.9300013972141082,
+        "ratio_vs_source": 0.9060991747228254,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 3288393,
+        "source_pass": "r8",
+        "source_bytes": 3794361,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.8314802574853358,
+        "ratio_vs_source": 0.8666526458605283,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 6503918,
+        "source_pass": "r9",
+        "source_bytes": 7234644,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.2857058701199295,
+        "ratio_vs_source": 0.8989962740391926,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\vnv_nation_beloved_q2048.wav"
+      }
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 2043510,
+        "source_pass": "r8",
+        "source_bytes": 2300005,
+        "opus96_bytes": 2796589,
+        "ratio_vs_opus96": 0.7307151676560267,
+        "ratio_vs_source": 0.8884806772159191,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\clay_walker_fore_she_was_mama_q2048.wav"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "row": {
+        "q": 2048,
+        "archive_bytes": 2905859,
+        "source_pass": "r9",
+        "source_bytes": 3142251,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 1.3315250413086053,
+        "ratio_vs_source": 0.9247698544769339,
+        "samples_match_source": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\cage_the_elephant_aint_no_rest_q2048.wav"
+      }
+    }
+  ]
+}

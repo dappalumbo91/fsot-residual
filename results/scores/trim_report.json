@@ -1,0 +1,74 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "loud frames of the dialed octave return to the tenth pass; quiet-covering frames keep the nineteenth",
+    "bands": {
+      "eminem_lose_yourself": "0-2.8",
+      "bruno_mars_just_the_way_you_are": "2.8-5.5"
+    },
+    "quiet_fraction": 0.15,
+    "kept": "Sublime and Clay stay at r19; no other band is coarsened",
+    "songs": [
+      "eminem_lose_yourself",
+      "bruno_mars_just_the_way_you_are"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "dial_band": 0,
+        "dial_name": "0-2.8",
+        "frames_kept_fine": 9659,
+        "frames": 55185,
+        "archive_bytes": 3355464,
+        "r19_bytes": 4126936,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.8484393655815393,
+        "ratio_vs_r19": 0.8130642200412121,
+        "under_opus": true,
+        "mean_abs_error": 407.0633906718607,
+        "snr_db": 25.767299885078042,
+        "quiet15_snr_db": {
+          "0-2.8": 19.240872805867554,
+          "2.8-5.5": 4.735992052714221,
+          "5.5-11": 5.549513871384835,
+          "11-22": 3.787282743815739
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r20\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "dial_band": 1,
+        "dial_name": "2.8-5.5",
+        "frames_kept_fine": 6424,
+        "frames": 37682,
+        "archive_bytes": 2578727,
+        "r19_bytes": 3044044,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 0.9407398814155566,
+        "ratio_vs_r19": 0.847138543332488,
+        "under_opus": true,
+        "mean_abs_error": 518.3167658773353,
+        "snr_db": 24.204936088791516,
+        "quiet15_snr_db": {
+          "0-2.8": 15.461309319094498,
+          "2.8-5.5": 7.05221841292515,
+          "5.5-11": 5.971307117243196,
+          "11-22": 1.5135843669192455
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r20\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    }
+  ]
+}

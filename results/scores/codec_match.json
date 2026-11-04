@@ -1,0 +1,61 @@
+{
+  "declared": "ffmpeg native aac and libvorbis, nominal 96 kbps, audio stream only, same seven source files. Size only.",
+  "rows": [
+    {
+      "stem": "sublime_wrong_way",
+      "seconds": 111.882449,
+      "aac96_bytes": 1371257,
+      "vorbis96_bytes": 1293243,
+      "aac_kbps": 98.049,
+      "vorbis_kbps": 92.472
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "seconds": 261.517256,
+      "aac96_bytes": 3228551,
+      "vorbis96_bytes": 3102569,
+      "aac_kbps": 98.7636854066716,
+      "vorbis_kbps": 94.90980587529567
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "seconds": 218.733333,
+      "aac96_bytes": 2698825,
+      "vorbis96_bytes": 2540818,
+      "aac_kbps": 98.70740642899635,
+      "vorbis_kbps": 92.92842440251209
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "seconds": 320.344958,
+      "aac96_bytes": 3981310,
+      "vorbis96_bytes": 3347650,
+      "aac_kbps": 99.42556985710385,
+      "vorbis_kbps": 83.6011285059776
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "seconds": 439.301224,
+      "aac96_bytes": 5375507,
+      "vorbis96_bytes": 4962989,
+      "aac_kbps": 97.89195579386777,
+      "vorbis_kbps": 90.37969809981682
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "seconds": 223.76,
+      "aac96_bytes": 2730558,
+      "vorbis96_bytes": 2489438,
+      "aac_kbps": 97.62452627815517,
+      "vorbis_kbps": 89.0038612799428
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "seconds": 175.493333,
+      "aac96_bytes": 2175066,
+      "vorbis96_bytes": 2176585,
+      "aac_kbps": 99.15207434119449,
+      "vorbis_kbps": 99.22131913694977
+    }
+  ]
+}

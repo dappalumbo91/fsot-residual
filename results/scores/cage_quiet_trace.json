@@ -1,0 +1,44 @@
+{
+  "stem": "cage_the_elephant_aint_no_rest",
+  "rule": "quiet octave with the most negative r33-minus-Opus gap; tie takes the lower index",
+  "gaps": {
+    "0-2.8": 0.611508439380982,
+    "2.8-5.5": -4.38970915667047,
+    "5.5-11": -3.2317764759830725,
+    "11-22": -3.2487732837032217
+  },
+  "candidate_band": 1,
+  "candidate_name": "2.8-5.5",
+  "mid": {
+    "all": {
+      "frames": 30233,
+      "kept_at_stored": 26463,
+      "kept_at_next": 27531,
+      "median_b": 2.0,
+      "median_peak": 119554.50643043587
+    },
+    "quiet": {
+      "frames": 5266,
+      "kept_at_stored": 2727,
+      "kept_at_next": 3182,
+      "median_b": 2.0,
+      "median_peak": 49601.736225440196
+    }
+  },
+  "side": {
+    "all": {
+      "frames": 30233,
+      "kept_at_stored": 26919,
+      "kept_at_next": 27923,
+      "median_b": 2.0,
+      "median_peak": 134301.61050972756
+    },
+    "quiet": {
+      "frames": 5266,
+      "kept_at_stored": 3041,
+      "kept_at_next": 3531,
+      "median_b": 2.0,
+      "median_peak": 60106.036568948635
+    }
+  }
+}

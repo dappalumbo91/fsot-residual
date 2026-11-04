@@ -1,0 +1,53 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one finer rung on VNV mid 2.8-5.5 kHz",
+    "kept": "side and every other band stay",
+    "vocal_window_s": [
+      70,
+      170
+    ],
+    "songs": [
+      "vnv_nation_beloved"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "dial_band": 1,
+        "dial_name": "2.8-5.5",
+        "channel": "mid",
+        "vocal_window_s": [
+          70,
+          170
+        ],
+        "archive_bytes": 5202179,
+        "r16_bytes": 4963847,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.028375830955222,
+        "ratio_vs_r16": 1.048013566896804,
+        "under_opus": false,
+        "mid_zoom_before": 2.516345569386083,
+        "mid_zoom_after": 3.516345569386083,
+        "side_zoom": 1.605499616797484,
+        "mean_abs_error": 759.0834358719765,
+        "hop_mean_mid": 587.6145017915409,
+        "hop_mean_side": 924.375333522795,
+        "snr_db": 17.991096376465315,
+        "vocal_mid_snr_db": {
+          "0-2.8": 23.644523150348668,
+          "2.8-5.5": 9.967818563987715,
+          "5.5-11": 8.124628843284718,
+          "11-22": 0.32554998494233706
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r17\\vnv_nation_beloved_q2048.wav"
+      }
+    }
+  ]
+}

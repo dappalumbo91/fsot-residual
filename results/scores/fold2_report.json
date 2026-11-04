@@ -1,0 +1,80 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "child bin minus the block parent; block length is derived_D_eff(Acoustics); parent is the first bin of the block; tenth-pass bucket of the previous quotient; zoom blob copied; support stored; counts start at 1; 12-bit table not stored; Bruno stays at fold1; no rung; no coarsen; no wav",
+    "songs": [
+      "skrillex_first_of_the_year",
+      "vnv_nation_beloved",
+      "cage_the_elephant_aint_no_rest"
+    ],
+    "left_out": "Bruno stays at fold1",
+    "q": 2048,
+    "magic": "FS2B",
+    "depth": 8
+  },
+  "songs": [
+    {
+      "stem": "skrillex_first_of_the_year",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "depth": 8,
+        "source_pass": "r16",
+        "source_bytes": 3296457,
+        "fold1_bytes": 3263857,
+        "archive_bytes": 4099300,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 1.341066172633849,
+        "ratio_vs_fold1": 1.2559680157555921,
+        "under_opus": false,
+        "margin_bytes": -1042553,
+        "kbps": 125.40052030228968,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold2\\skrillex_first_of_the_year_q2048.fs2b"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "depth": 8,
+        "source_pass": "r17",
+        "source_bytes": 5202179,
+        "fold1_bytes": 5159733,
+        "archive_bytes": 6399910,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.26514538701737,
+        "ratio_vs_fold1": 1.2403568169128132,
+        "under_opus": false,
+        "margin_bytes": -1341274,
+        "kbps": 116.54709148480704,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold2\\vnv_nation_beloved_q2048.fs2b"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "depth": 8,
+        "source_pass": "r34",
+        "source_bytes": 2204742,
+        "fold1_bytes": 2187321,
+        "archive_bytes": 2733245,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 1.2524297158022941,
+        "ratio_vs_fold1": 1.2495856803825318,
+        "under_opus": false,
+        "margin_bytes": -550891,
+        "kbps": 124.59709770551588,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold2\\cage_the_elephant_aint_no_rest_q2048.fs2b"
+      }
+    }
+  ]
+}

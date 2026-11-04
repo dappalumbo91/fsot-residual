@@ -1,0 +1,143 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "quiet frames of the dead-zone octave take the coarsest rung that keeps the peak coefficient",
+    "bands": {
+      "sublime_wrong_way": "11-22",
+      "eminem_lose_yourself": "5.5-11",
+      "bruno_mars_just_the_way_you_are": "11-22"
+    },
+    "left_out": "Clay stays at r23. The next rung there already keeps the peak.",
+    "quiet_fraction": 0.15,
+    "kept": "loud frames, frames already keeping the peak, frames below b=8, and every other band stay",
+    "songs": [
+      "sublime_wrong_way",
+      "eminem_lose_yourself",
+      "bruno_mars_just_the_way_you_are"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "seconds": 111.88244897959184,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "frames_raised": 3784,
+        "frames_quiet": 3797,
+        "frames": 19275,
+        "mid_b_before": 3.153278904398209,
+        "mid_b_after": 7.212799578614696,
+        "side_b_before": 3.225967869370556,
+        "side_b_after": 6.254411377403213,
+        "archive_bytes": 1213106,
+        "r23_bytes": 1168273,
+        "opus96_bytes": 1327328,
+        "ratio_vs_opus96": 0.9139459123894018,
+        "ratio_vs_r23": 1.0383754482043153,
+        "under_opus": true,
+        "kbps": 86.74146918048098,
+        "opus_kbps": 94.90875554517861,
+        "mean_abs_error": 298.08293142948867,
+        "snr_db": 22.163158678294735,
+        "quiet15_snr_db": {
+          "0-2.8": 18.77603735848631,
+          "2.8-5.5": 7.294204288180659,
+          "5.5-11": 6.824982761260392,
+          "11-22": 1.0571376022570895
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 17.43323743969868,
+          "2.8-5.5": 7.59699094600586,
+          "5.5-11": 6.8980705383576115,
+          "11-22": 0.974867694829849
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r24\\sublime_wrong_way_q2048.wav"
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "dial_band": 2,
+        "dial_name": "5.5-11",
+        "frames_raised": 5979,
+        "frames_quiet": 9659,
+        "frames": 55185,
+        "mid_b_before": 1.5734548089864375,
+        "mid_b_after": 4.713634951858371,
+        "side_b_before": 0.4644373123511751,
+        "side_b_after": 4.538565068847706,
+        "archive_bytes": 3415552,
+        "r23_bytes": 3388540,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.8636328007067748,
+        "ratio_vs_r23": 1.0079715747785183,
+        "under_opus": true,
+        "kbps": 85.2982793769877,
+        "opus_kbps": 98.76683621462936,
+        "mean_abs_error": 402.9145033232873,
+        "snr_db": 25.82043601165521,
+        "quiet15_snr_db": {
+          "0-2.8": 19.26084485651687,
+          "2.8-5.5": 9.748815760595212,
+          "5.5-11": 5.875683236870488,
+          "11-22": 6.504890190681874
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 21.029095429954342,
+          "2.8-5.5": 11.135722214123454,
+          "5.5-11": 8.663674696970029,
+          "11-22": 8.34699498096729
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r24\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "frames_raised": 5207,
+        "frames_quiet": 6424,
+        "frames": 37682,
+        "mid_b_before": 1.1229763387297633,
+        "mid_b_after": 5.117372353673724,
+        "side_b_before": 1.0454545454545454,
+        "side_b_after": 5.108966376089664,
+        "archive_bytes": 2681526,
+        "r23_bytes": 2641646,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 0.97824176473614,
+        "ratio_vs_r23": 1.0150966480747232,
+        "under_opus": true,
+        "kbps": 98.07470893020421,
+        "opus_kbps": 100.25610484608352,
+        "mean_abs_error": 497.57345974659296,
+        "snr_db": 24.46954060498889,
+        "quiet15_snr_db": {
+          "0-2.8": 20.157956023313144,
+          "2.8-5.5": 9.180481374895896,
+          "5.5-11": 5.976302570425029,
+          "11-22": 3.2833155893195776
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 19.861110779703807,
+          "2.8-5.5": 10.111747963891386,
+          "5.5-11": 7.134381867371268,
+          "11-22": 4.565641891234115
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r24\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    }
+  ]
+}

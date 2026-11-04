@@ -1,0 +1,126 @@
+[
+  {
+    "path": "G:\\Music discography's\\music i made\\cries_in_the_beat.mp3",
+    "seconds": 178.49469387755101,
+    "rate": 44100,
+    "channels": 2,
+    "source_bytes": 4227964,
+    "pcm_bytes": 31486464,
+    "flac_bytes": 14618745,
+    "ladder": [
+      {
+        "q": 1,
+        "archive_bytes": 32328823,
+        "wav_bytes": 31486508,
+        "snr_db": null,
+        "exact": true,
+        "max_abs": 0,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q1.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q1.fspz"
+      },
+      {
+        "q": 32,
+        "archive_bytes": 15056101,
+        "wav_bytes": 31486508,
+        "snr_db": 51.450893557228035,
+        "exact": false,
+        "max_abs": 109,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q32.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q32.fspz"
+      },
+      {
+        "q": 128,
+        "archive_bytes": 9675474,
+        "wav_bytes": 31486508,
+        "snr_db": 39.45297989158541,
+        "exact": false,
+        "max_abs": 435,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q128.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q128.fspz"
+      },
+      {
+        "q": 512,
+        "archive_bytes": 5150324,
+        "wav_bytes": 31486508,
+        "snr_db": 27.97553928240677,
+        "exact": false,
+        "max_abs": 1726,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q512.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q512.fspz"
+      },
+      {
+        "q": 2048,
+        "archive_bytes": 1974169,
+        "wav_bytes": 31486508,
+        "snr_db": 18.863566615581277,
+        "exact": false,
+        "max_abs": 5936,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q2048.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\cries_in_the_beat_q2048.fspz"
+      }
+    ],
+    "engine_sha256": "aeb2adad6e80f487772c5df90a2e3dda71624ab831a6a83b94ab471ac9aac170"
+  },
+  {
+    "path": "G:\\Music discography's\\music i made\\human_in_slaved_buy_robots.mp3",
+    "seconds": 236.95673469387756,
+    "rate": 44100,
+    "channels": 2,
+    "source_bytes": 5556154,
+    "pcm_bytes": 41799168,
+    "flac_bytes": 28364848,
+    "ladder": [
+      {
+        "q": 1,
+        "archive_bytes": 50242263,
+        "wav_bytes": 41799212,
+        "snr_db": null,
+        "exact": true,
+        "max_abs": 0,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q1.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q1.fspz"
+      },
+      {
+        "q": 32,
+        "archive_bytes": 27855196,
+        "wav_bytes": 41799212,
+        "snr_db": 53.67290453225493,
+        "exact": false,
+        "max_abs": 110,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q32.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q32.fspz"
+      },
+      {
+        "q": 128,
+        "archive_bytes": 20871021,
+        "wav_bytes": 41799212,
+        "snr_db": 41.64488195399653,
+        "exact": false,
+        "max_abs": 429,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q128.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q128.fspz"
+      },
+      {
+        "q": 512,
+        "archive_bytes": 13499274,
+        "wav_bytes": 41799212,
+        "snr_db": 29.628064159222856,
+        "exact": false,
+        "max_abs": 1735,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q512.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q512.fspz"
+      },
+      {
+        "q": 2048,
+        "archive_bytes": 6411956,
+        "wav_bytes": 41799212,
+        "snr_db": 18.705629034116768,
+        "exact": false,
+        "max_abs": 7001,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q2048.wav",
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\human_in_slaved_buy_robots_q2048.fspz"
+      }
+    ],
+    "engine_sha256": "aeb2adad6e80f487772c5df90a2e3dda71624ab831a6a83b94ab471ac9aac170"
+  }
+]

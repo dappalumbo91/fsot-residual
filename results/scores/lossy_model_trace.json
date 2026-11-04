@@ -1,0 +1,69 @@
+{
+  "rule": "cross-entropy of the stored 12-bit bucket tables; SCALE stays 4096; no archive",
+  "songs": [
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "pass": "r26",
+      "archive_bytes": 2765356,
+      "opus_bytes": 2741169,
+      "streams": 117,
+      "entropy_bytes": 2659075.886240185,
+      "cross_bytes": 2683588.6558013395,
+      "fixed_bytes": 40507,
+      "quantizer_gap_bytes": 24512.769561154768,
+      "model_bucket_bytes": 40842,
+      "payload_bytes": 2684007,
+      "same_table_floor_bytes": 2764937.6558013395,
+      "payload_above_cross_bytes": 418.34419866045937,
+      "verdict": "unreachable"
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "pass": "r16",
+      "archive_bytes": 3296457,
+      "opus_bytes": 3056747,
+      "streams": 92,
+      "entropy_bytes": 3205700.8775043273,
+      "cross_bytes": 3223253.912005637,
+      "fixed_bytes": 27870,
+      "quantizer_gap_bytes": 17553.034501309507,
+      "model_bucket_bytes": 45008,
+      "payload_bytes": 3223579,
+      "same_table_floor_bytes": 3296131.912005637,
+      "payload_above_cross_bytes": 325.08799436315894,
+      "verdict": "unreachable"
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "pass": "r17",
+      "archive_bytes": 5202179,
+      "opus_bytes": 5058636,
+      "streams": 97,
+      "entropy_bytes": 5083051.135503554,
+      "cross_bytes": 5114351.043676001,
+      "fixed_bytes": 51223,
+      "quantizer_gap_bytes": 31299.908172447234,
+      "model_bucket_bytes": 36258,
+      "payload_bytes": 5114698,
+      "same_table_floor_bytes": 5201832.043676001,
+      "payload_above_cross_bytes": 346.9563239989802,
+      "verdict": "unreachable"
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "pass": "r34",
+      "archive_bytes": 2204742,
+      "opus_bytes": 2182354,
+      "streams": 95,
+      "entropy_bytes": 2129993.2382026827,
+      "cross_bytes": 2137670.5421688287,
+      "fixed_bytes": 37523,
+      "quantizer_gap_bytes": 7677.3039661459625,
+      "model_bucket_bytes": 29210,
+      "payload_bytes": 2138009,
+      "same_table_floor_bytes": 2204403.5421688287,
+      "payload_above_cross_bytes": 338.45783117134124,
+      "verdict": "unreachable"
+    }
+  ]
+}

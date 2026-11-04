@@ -1,0 +1,156 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "coefficient_step": "Q * 128",
+    "grain": 128,
+    "q": [
+      1,
+      32,
+      128,
+      512,
+      2048
+    ]
+  },
+  "songs": [
+    {
+      "stem": "cries_in_the_beat",
+      "ladder": [
+        {
+          "q": 1,
+          "coeff_step": 1,
+          "archive_bytes": 32328799,
+          "first_archive_bytes": 32328823,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "error_2_8kHz_share": 0.0,
+          "error_2_8kHz_power": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\cries_in_the_beat_r4_q1.wav",
+          "source_bytes": 4227964
+        },
+        {
+          "q": 32,
+          "coeff_step": 4096,
+          "archive_bytes": 14634663,
+          "first_archive_bytes": 15056101,
+          "snr_db": 38.75931642270156,
+          "level_delta_db": 0.0004776371855859874,
+          "error_2_8kHz_share": 0.2942944328693708,
+          "error_2_8kHz_power": 64343653313.921936,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\cries_in_the_beat_r4_q32.wav",
+          "source_bytes": 4227964
+        },
+        {
+          "q": 128,
+          "coeff_step": 16384,
+          "archive_bytes": 9273645,
+          "first_archive_bytes": 9675474,
+          "snr_db": 27.236509874746737,
+          "level_delta_db": 0.005950891250399989,
+          "error_2_8kHz_share": 0.2782487211401701,
+          "error_2_8kHz_power": 863848335494.7993,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\cries_in_the_beat_r4_q128.wav",
+          "source_bytes": 4227964
+        },
+        {
+          "q": 512,
+          "coeff_step": 65536,
+          "archive_bytes": 4832248,
+          "first_archive_bytes": 5150324,
+          "snr_db": 17.39650001519458,
+          "level_delta_db": 0.022149934911945335,
+          "error_2_8kHz_share": 0.21099378956112796,
+          "error_2_8kHz_power": 6313569740993.291,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\cries_in_the_beat_r4_q512.wav",
+          "source_bytes": 4227964
+        },
+        {
+          "q": 2048,
+          "coeff_step": 262144,
+          "archive_bytes": 1888964,
+          "first_archive_bytes": 1974169,
+          "snr_db": 9.724470163494146,
+          "level_delta_db": 0.09726247104955343,
+          "error_2_8kHz_share": 0.11399663643200258,
+          "error_2_8kHz_power": 19957233207379.566,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\cries_in_the_beat_r4_q2048.wav",
+          "source_bytes": 4227964
+        }
+      ]
+    },
+    {
+      "stem": "human_in_slaved_buy_robots",
+      "ladder": [
+        {
+          "q": 1,
+          "coeff_step": 1,
+          "archive_bytes": 50242285,
+          "first_archive_bytes": 50242263,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "error_2_8kHz_share": 0.0,
+          "error_2_8kHz_power": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\human_in_slaved_buy_robots_r4_q1.wav",
+          "source_bytes": 5556154
+        },
+        {
+          "q": 32,
+          "coeff_step": 4096,
+          "archive_bytes": 27463541,
+          "first_archive_bytes": 27855196,
+          "snr_db": 40.9091569242116,
+          "level_delta_db": -0.0010985539342281676,
+          "error_2_8kHz_share": 0.29664815818938567,
+          "error_2_8kHz_power": 86721337491.37067,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\human_in_slaved_buy_robots_r4_q32.wav",
+          "source_bytes": 5556154
+        },
+        {
+          "q": 128,
+          "coeff_step": 16384,
+          "archive_bytes": 20504878,
+          "first_archive_bytes": 20871021,
+          "snr_db": 28.93253923234752,
+          "level_delta_db": -0.002071428101926711,
+          "error_2_8kHz_share": 0.2985038238632723,
+          "error_2_8kHz_power": 1375612074134.4146,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\human_in_slaved_buy_robots_r4_q128.wav",
+          "source_bytes": 5556154
+        },
+        {
+          "q": 512,
+          "coeff_step": 65536,
+          "archive_bytes": 13224370,
+          "first_archive_bytes": 13499274,
+          "snr_db": 17.489199548594407,
+          "level_delta_db": 0.019019692801204732,
+          "error_2_8kHz_share": 0.30014492212424226,
+          "error_2_8kHz_power": 19284618372367.383,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\human_in_slaved_buy_robots_r4_q512.wav",
+          "source_bytes": 5556154
+        },
+        {
+          "q": 2048,
+          "coeff_step": 262144,
+          "archive_bytes": 6337149,
+          "first_archive_bytes": 6411956,
+          "snr_db": 8.27672611871267,
+          "level_delta_db": -0.04043965603269444,
+          "error_2_8kHz_share": 0.2728500152621521,
+          "error_2_8kHz_power": 146235015005872.25,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\human_in_slaved_buy_robots_r4_q2048.wav",
+          "source_bytes": 5556154
+        }
+      ]
+    }
+  ]
+}

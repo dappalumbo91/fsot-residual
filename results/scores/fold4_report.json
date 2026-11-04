@@ -1,0 +1,88 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "same quotients and same fold1 payloads; sorted support stored as zigzag Elias gamma of the first symbol and gamma of each positive gap; zoom blob copied; Bruno included; new margin is not a rung; no wav",
+    "songs": [
+      "bruno_mars_just_the_way_you_are",
+      "cage_the_elephant_aint_no_rest",
+      "skrillex_first_of_the_year",
+      "vnv_nation_beloved"
+    ],
+    "q": 2048,
+    "magic": "FS2F"
+  },
+  "songs": [
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "fold1_bytes": 2727420,
+        "archive_bytes": 2710140,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 0.9886803768757052,
+        "ratio_vs_fold1": 0.9936643421255252,
+        "under_opus": true,
+        "margin_bytes": 31029,
+        "kbps": 99.12124352331607,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold4\\bruno_mars_just_the_way_you_are_q2048.fs2f"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "fold1_bytes": 2187321,
+        "archive_bytes": 2175043,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 0.9966499477170065,
+        "ratio_vs_fold1": 0.9943867406750084,
+        "under_opus": true,
+        "margin_bytes": 7311,
+        "kbps": 99.15102567998784,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold4\\cage_the_elephant_aint_no_rest_q2048.fs2f"
+      }
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "fold1_bytes": 3263857,
+        "archive_bytes": 3244313,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 1.06136130991541,
+        "ratio_vs_fold1": 0.9940119925597231,
+        "under_opus": false,
+        "margin_bytes": -187566,
+        "kbps": 99.24585617629408,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold4\\skrillex_first_of_the_year_q2048.fs2f"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "fold1_bytes": 5159733,
+        "archive_bytes": 5144164,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.016907324425003,
+        "ratio_vs_fold1": 0.9969825958048605,
+        "under_opus": false,
+        "margin_bytes": -85528,
+        "kbps": 93.67902866147351,
+        "quotients_match": true,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\fold4\\vnv_nation_beloved_q2048.fs2f"
+      }
+    }
+  ]
+}

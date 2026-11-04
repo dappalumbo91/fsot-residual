@@ -1,0 +1,82 @@
+{
+  "points": "flac-8, opus 96k, opus 128k",
+  "rows": [
+    {
+      "stem": "sublime_wrong_way",
+      "seconds": 111.88244897959184,
+      "source_mp3": 1798140,
+      "fspz_q1": 20631098,
+      "fspz_q512": 4189737,
+      "fspz_q2048": 1817894,
+      "flac": 10659386,
+      "opus96": 1327328,
+      "opus128": 1782333
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "seconds": 261.5172562358277,
+      "source_mp3": 11167950,
+      "fspz_q1": 54243191,
+      "fspz_q512": 16198180,
+      "fspz_q2048": 8831985,
+      "flac": 36081830,
+      "opus96": 3056747,
+      "opus128": 4103375
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "seconds": 218.73333333333332,
+      "source_mp3": 8894614,
+      "fspz_q1": 42026921,
+      "fspz_q512": 10168914,
+      "fspz_q2048": 4763211,
+      "flac": 25589412,
+      "opus96": 2741169,
+      "opus128": 3653272
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "seconds": 320.3395918367347,
+      "source_mp3": 7689531,
+      "fspz_q1": 58717804,
+      "fspz_q512": 12778695,
+      "fspz_q2048": 5912790,
+      "flac": 29262719,
+      "opus96": 3954866,
+      "opus128": 5305246
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "seconds": 439.3012244897959,
+      "source_mp3": 7029084,
+      "fspz_q1": 86270876,
+      "fspz_q512": 22242252,
+      "fspz_q2048": 10963632,
+      "flac": 49466148,
+      "opus96": 5058636,
+      "opus128": 6783596
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "seconds": 223.76,
+      "source_mp3": 5146830,
+      "fspz_q1": 39512150,
+      "fspz_q512": 7913703,
+      "fspz_q2048": 3355496,
+      "flac": 23262265,
+      "opus96": 2796589,
+      "opus128": 3735142
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "seconds": 175.49333333333334,
+      "source_mp3": 7024806,
+      "fspz_q1": 35316646,
+      "fspz_q512": 9558559,
+      "fspz_q2048": 4762795,
+      "flac": 22268030,
+      "opus96": 2182354,
+      "opus128": 2920955
+    }
+  ]
+}

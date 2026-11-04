@@ -1,0 +1,62 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "the only full-song octave still behind Opus on the r31 playback",
+    "band": "11-22",
+    "kept": "every band below 11 kHz stays, including the r31 rung",
+    "songs": [
+      "cage_the_elephant_aint_no_rest"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048,
+    "source": "r31"
+  },
+  "songs": [
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "archive_bytes": 1986213,
+        "r31_bytes": 1970312,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 0.9101241136864139,
+        "ratio_vs_r31": 1.0080702954658958,
+        "under_opus": true,
+        "mid_zoom_before": 0.0,
+        "mid_zoom_after": 1.0,
+        "side_zoom_before": 0.0,
+        "side_zoom_after": 1.0,
+        "snr_db": 17.325068351798997,
+        "band_snr_db": {
+          "0-2.8": 27.95848886331155,
+          "2.8-5.5": 10.592849380771483,
+          "5.5-11": 7.511464886032371,
+          "11-22": 0.5277087807483734
+        },
+        "opus_band_snr_db": {
+          "0-2.8": 17.368008681578186,
+          "2.8-5.5": 9.673890626142121,
+          "5.5-11": 6.7951247068734215,
+          "11-22": 1.88051339572211
+        },
+        "quiet_snr_db": {
+          "0-2.8": 16.5672431498212,
+          "2.8-5.5": 5.174424969394531,
+          "5.5-11": 4.512820485488654,
+          "11-22": 0.338251502204922
+        },
+        "opus_quiet_snr_db": {
+          "0-2.8": 15.955751191380665,
+          "2.8-5.5": 9.564147509843055,
+          "5.5-11": 7.7453381874030285,
+          "11-22": 4.447590705989381
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r32\\cage_the_elephant_aint_no_rest_q2048.wav"
+      }
+    }
+  ]
+}

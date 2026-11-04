@@ -1,0 +1,103 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "store one float64 byte-entropy and not the file; permutation keeps the metric; no archive",
+    "metric": "float64 bits per byte",
+    "archive": false
+  },
+  "songs": [
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "fold1": {
+        "file_bytes": 2727420,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.998692995087219,
+        "ideal_bytes": 2726974.406082598,
+        "preimage_bits": 21813755.491656635,
+        "preimage_bytes": 2726719.4364570794,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      },
+      "opus96": {
+        "file_bytes": 2741169,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.997070998963676,
+        "ideal_bytes": 2740165.3891447824,
+        "preimage_bits": 21919282.591066204,
+        "preimage_bytes": 2739910.3238832755,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "fold1": {
+        "file_bytes": 2187321,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.9988502984857845,
+        "ideal_bytes": 2187006.654216778,
+        "preimage_bits": 17494054.05231233,
+        "preimage_bytes": 2186756.756539041,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      },
+      "opus96": {
+        "file_bytes": 2182354,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.99717765995327,
+        "ideal_bytes": 2181584.0818637074,
+        "preimage_bits": 17450674.05798235,
+        "preimage_bytes": 2181334.257247794,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      }
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "fold1": {
+        "file_bytes": 3263857,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.998921373275232,
+        "ideal_bytes": 3263416.9395767474,
+        "preimage_bits": 26105262.707619123,
+        "preimage_bytes": 3263157.8384523904,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      },
+      "opus96": {
+        "file_bytes": 3056747,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.996938280490092,
+        "ideal_bytes": 3055577.137259156,
+        "preimage_bits": 24442556.54472083,
+        "preimage_bytes": 3055319.5680901036,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "fold1": {
+        "file_bytes": 5159733,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.999645396784591,
+        "ideal_bytes": 5159504.292760944,
+        "preimage_bits": 41273877.2121668,
+        "preimage_bytes": 5159234.65152085,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      },
+      "opus96": {
+        "file_bytes": 5058636,
+        "metric_bytes": 8,
+        "entropy_bits_per_byte": 7.996825832139558,
+        "ideal_bytes": 5056628.880023891,
+        "preimage_bits": 40450877.83843667,
+        "preimage_bytes": 5056359.729804584,
+        "shuffle_keeps_metric": true,
+        "shuffle_same_bytes": false
+      }
+    }
+  ],
+  "fold1_metrics_distinct_at_1e-6": 4
+}

@@ -1,0 +1,160 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one finer rung on the remaining worst quiet octave, only on frames that cover a quiet hop",
+    "bands": {
+      "sublime_wrong_way": "2.8-5.5",
+      "clay_walker_fore_she_was_mama": "0-2.8",
+      "eminem_lose_yourself": "2.8-5.5",
+      "bruno_mars_just_the_way_you_are": "0-2.8"
+    },
+    "quiet_fraction": 0.15,
+    "kept": "loud frames and every other band stay",
+    "songs": [
+      "sublime_wrong_way",
+      "clay_walker_fore_she_was_mama",
+      "eminem_lose_yourself",
+      "bruno_mars_just_the_way_you_are"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "seconds": 111.88244897959184,
+      "row": {
+        "q": 2048,
+        "dial_band": 1,
+        "dial_name": "2.8-5.5",
+        "source_pass": "r19",
+        "frames_raised": 3797,
+        "frames": 19275,
+        "archive_bytes": 1152009,
+        "source_bytes": 1133817,
+        "opus96_bytes": 1327328,
+        "ratio_vs_opus96": 0.8679158429566769,
+        "ratio_vs_source": 1.0160449173014692,
+        "under_opus": true,
+        "mean_abs_error": 301.70349518526086,
+        "snr_db": 22.077388082313433,
+        "quiet15_snr_db": {
+          "0-2.8": 18.776085145856914,
+          "2.8-5.5": 7.284772122687359,
+          "5.5-11": 4.41944422806494,
+          "11-22": 0.0009208572517919392
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 17.43323743969868,
+          "2.8-5.5": 7.59699094600586,
+          "5.5-11": 6.8980705383576115,
+          "11-22": 0.974867694829849
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r21\\sublime_wrong_way_q2048.wav"
+      }
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "seconds": 223.76,
+      "row": {
+        "q": 2048,
+        "dial_band": 0,
+        "dial_name": "0-2.8",
+        "source_pass": "r19",
+        "frames_raised": 7189,
+        "frames": 38548,
+        "archive_bytes": 2542698,
+        "source_bytes": 2505981,
+        "opus96_bytes": 2796589,
+        "ratio_vs_opus96": 0.9092140461111733,
+        "ratio_vs_source": 1.0146517471600942,
+        "under_opus": true,
+        "mean_abs_error": 385.13946470019306,
+        "snr_db": 22.084030765509098,
+        "quiet15_snr_db": {
+          "0-2.8": 17.232024772645325,
+          "2.8-5.5": 11.286108814170282,
+          "5.5-11": 5.495986391973212,
+          "11-22": 2.261048822317606
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 18.827615593227677,
+          "2.8-5.5": 12.374066704859608,
+          "5.5-11": 9.700124862651533,
+          "11-22": 2.9865157078301947
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r21\\clay_walker_fore_she_was_mama_q2048.wav"
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "dial_band": 1,
+        "dial_name": "2.8-5.5",
+        "source_pass": "r20",
+        "frames_raised": 9659,
+        "frames": 55185,
+        "archive_bytes": 3365892,
+        "source_bytes": 3355464,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.8510761173703483,
+        "ratio_vs_source": 1.0031077669139052,
+        "under_opus": true,
+        "mean_abs_error": 404.7939576736026,
+        "snr_db": 25.797919509316944,
+        "quiet15_snr_db": {
+          "0-2.8": 19.252636949726302,
+          "2.8-5.5": 7.249150348530055,
+          "5.5-11": 5.55478482880654,
+          "11-22": 3.7873172453310877
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 21.029095429954342,
+          "2.8-5.5": 11.135722214123454,
+          "5.5-11": 8.663674696970029,
+          "11-22": 8.34699498096729
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r21\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "dial_band": 0,
+        "dial_name": "0-2.8",
+        "source_pass": "r20",
+        "frames_raised": 6424,
+        "frames": 37682,
+        "archive_bytes": 2611508,
+        "source_bytes": 2578727,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 0.9526986479126242,
+        "ratio_vs_source": 1.0127120862347971,
+        "under_opus": true,
+        "mean_abs_error": 500.2164922964004,
+        "snr_db": 24.43387783171695,
+        "quiet15_snr_db": {
+          "0-2.8": 20.153321202996047,
+          "2.8-5.5": 7.067023970901438,
+          "5.5-11": 5.971276096863409,
+          "11-22": 1.5135265917590577
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 19.861110779703807,
+          "2.8-5.5": 10.111747963891386,
+          "5.5-11": 7.134381867371268,
+          "11-22": 4.565641891234115
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r21\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    }
+  ]
+}

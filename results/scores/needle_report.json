@@ -1,0 +1,140 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one more rung on the same quiet octave from the eighteenth pass",
+    "bands": {
+      "sublime_wrong_way": "0-2.8",
+      "clay_walker_fore_she_was_mama": "2.8-5.5",
+      "eminem_lose_yourself": "0-2.8",
+      "bruno_mars_just_the_way_you_are": "2.8-5.5"
+    },
+    "quiet_fraction": 0.15,
+    "kept": "every other band stays",
+    "songs": [
+      "sublime_wrong_way",
+      "clay_walker_fore_she_was_mama",
+      "eminem_lose_yourself",
+      "bruno_mars_just_the_way_you_are"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "seconds": 111.88244897959184,
+      "row": {
+        "q": 2048,
+        "dial_band": 0,
+        "dial_name": "0-2.8",
+        "archive_bytes": 1133817,
+        "r18_bytes": 971044,
+        "opus96_bytes": 1327328,
+        "ratio_vs_opus96": 0.8542101123460064,
+        "ratio_vs_r18": 1.1676268016691314,
+        "under_opus": true,
+        "mid_zoom_before": 3.6528664072632946,
+        "mid_zoom_after": 4.652866407263295,
+        "side_zoom_before": 3.7755642023346305,
+        "side_zoom_after": 4.77556420233463,
+        "mean_abs_error": 308.63559988455654,
+        "snr_db": 21.89378384488625,
+        "quiet15_snr_db": {
+          "0-2.8": 18.754109941205186,
+          "2.8-5.5": 4.716970206077046,
+          "5.5-11": 4.406175148741735,
+          "11-22": 0.0011110743193727946
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r19\\sublime_wrong_way_q2048.wav"
+      }
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "seconds": 223.76,
+      "row": {
+        "q": 2048,
+        "dial_band": 1,
+        "dial_name": "2.8-5.5",
+        "archive_bytes": 2505981,
+        "r18_bytes": 2261016,
+        "opus96_bytes": 2796589,
+        "ratio_vs_opus96": 0.8960848376361346,
+        "ratio_vs_r18": 1.108342886560732,
+        "under_opus": true,
+        "mid_zoom_before": 3.7523606931617723,
+        "mid_zoom_after": 4.752360693161772,
+        "side_zoom_before": 3.616504098785929,
+        "side_zoom_after": 4.61650409878593,
+        "mean_abs_error": 406.2674202174017,
+        "snr_db": 21.661513840693768,
+        "quiet15_snr_db": {
+          "0-2.8": 13.13083330374425,
+          "2.8-5.5": 11.230047791477816,
+          "5.5-11": 5.4960071411634885,
+          "11-22": 2.261022392784751
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r19\\clay_walker_fore_she_was_mama_q2048.wav"
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "dial_band": 0,
+        "dial_name": "0-2.8",
+        "archive_bytes": 4126936,
+        "r18_bytes": 3696729,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 1.0435084273398896,
+        "ratio_vs_r18": 1.1163750439915936,
+        "under_opus": false,
+        "mid_zoom_before": 3.7536105825858477,
+        "mid_zoom_after": 4.753610582585847,
+        "side_zoom_before": 3.3583220077919727,
+        "side_zoom_after": 4.358322007791973,
+        "mean_abs_error": 326.83938335422954,
+        "snr_db": 27.613316211893533,
+        "quiet15_snr_db": {
+          "0-2.8": 19.244023132637874,
+          "2.8-5.5": 4.7415622165573446,
+          "5.5-11": 5.549514952661488,
+          "11-22": 3.7872497130611342
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r19\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "dial_band": 1,
+        "dial_name": "2.8-5.5",
+        "archive_bytes": 3044044,
+        "r18_bytes": 2791347,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 1.11049118095236,
+        "ratio_vs_r18": 1.0905286945693244,
+        "under_opus": false,
+        "mid_zoom_before": 3.400137996921607,
+        "mid_zoom_after": 4.4001379969216075,
+        "side_zoom_before": 3.231250995170108,
+        "side_zoom_after": 4.231250995170107,
+        "mean_abs_error": 470.0665833690989,
+        "snr_db": 25.05430577429479,
+        "quiet15_snr_db": {
+          "0-2.8": 15.461759837468477,
+          "2.8-5.5": 7.055768890381207,
+          "5.5-11": 5.972477472638711,
+          "11-22": 1.513585897959855
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r19\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    }
+  ]
+}

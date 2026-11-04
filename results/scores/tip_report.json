@@ -1,0 +1,52 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one finer rung on Clay's quiet 11-22 kHz octave",
+    "bands": {
+      "clay_walker_fore_she_was_mama": "11-22"
+    },
+    "quiet_fraction": 0.15,
+    "kept": "loud frames and every other band stay",
+    "songs": [
+      "clay_walker_fore_she_was_mama"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "seconds": 223.76,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "frames_raised": 7189,
+        "frames": 38548,
+        "archive_bytes": 2702448,
+        "r29_bytes": 2684004,
+        "opus96_bytes": 2796589,
+        "ratio_vs_opus96": 0.9663372057889092,
+        "under_opus": true,
+        "kbps": 96.61952091526636,
+        "opus_kbps": 99.98530568466215,
+        "mean_abs_error": 364.8354006094155,
+        "snr_db": 22.385421928925673,
+        "quiet15_snr_db": {
+          "0-2.8": 22.01439818505484,
+          "2.8-5.5": 14.922691193948154,
+          "5.5-11": 10.61339482820179,
+          "11-22": 4.057540413736024
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 18.827615593227677,
+          "2.8-5.5": 12.374066704859608,
+          "5.5-11": 9.700124862651533,
+          "11-22": 2.9865157078301947
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r30\\clay_walker_fore_she_was_mama_q2048.wav"
+      }
+    }
+  ]
+}

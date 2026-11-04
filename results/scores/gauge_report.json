@@ -1,0 +1,117 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "keeps": "r7 coefficients at Q=2048",
+    "coder": "static order-0 rANS per octave band",
+    "bands": "fs/16, fs/8, fs/4",
+    "zoom": "zlib-9 uint8",
+    "quotient": "int16"
+  },
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "seconds": 111.88244897959184,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 889445,
+        "r7_bytes": 1561175,
+        "opus96_bytes": 1327328,
+        "ratio_vs_opus96": 0.67010188890764,
+        "ratio_vs_r7": 0.5697279292840328,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\sublime_wrong_way_q2048.wav"
+      }
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 8175254,
+        "r7_bytes": 11646698,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 2.6744948142584257,
+        "ratio_vs_r7": 0.7019374933564861,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\skrillex_first_of_the_year_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 3183803,
+        "r7_bytes": 4937748,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 1.1614763628218472,
+        "ratio_vs_r7": 0.644788474421943,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 3794361,
+        "r7_bytes": 5548469,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.959415818386767,
+        "ratio_vs_r7": 0.6838572946879581,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\eminem_lose_yourself_q2048.wav"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 8354902,
+        "r7_bytes": 12323827,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.6516116202075026,
+        "ratio_vs_r7": 0.6779470370689235,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\vnv_nation_beloved_q2048.wav"
+      }
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "seconds": 223.76,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 2300005,
+        "r7_bytes": 3564800,
+        "opus96_bytes": 2796589,
+        "ratio_vs_opus96": 0.8224322558659853,
+        "ratio_vs_r7": 0.6451988891382405,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\clay_walker_fore_she_was_mama_q2048.wav"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 3702735,
+        "r7_bytes": 5524514,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 1.6966702010764523,
+        "ratio_vs_r7": 0.6702372371578749,
+        "samples_match_r7": true,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r7\\cage_the_elephant_aint_no_rest_q2048.wav"
+      }
+    }
+  ]
+}

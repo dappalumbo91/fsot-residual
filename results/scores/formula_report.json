@@ -1,0 +1,85 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "per octave, store both edges and every strict local extremum; the decoder draws the straight chord and rounds half away from zero; inverse MDCT renders the wave; zoom blob copied; Bruno stays at fold1; no rung; no wav",
+    "songs": [
+      "skrillex_first_of_the_year",
+      "vnv_nation_beloved",
+      "cage_the_elephant_aint_no_rest"
+    ],
+    "left_out": "Bruno stays at fold1",
+    "q": 2048,
+    "magic": "FS2E"
+  },
+  "songs": [
+    {
+      "stem": "skrillex_first_of_the_year",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "source_pass": "r16",
+        "source_bytes": 3296457,
+        "fold1_bytes": 3263857,
+        "archive_bytes": 6107742,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 1.998118261014078,
+        "ratio_vs_fold1": 1.8713264704918138,
+        "under_opus": false,
+        "margin_bytes": -3050995,
+        "kbps": 186.84019824656582,
+        "snr_vs_stored_wave_db": 10.91771880011869,
+        "knot_fraction": 0.26271976341227915,
+        "knots": 6060058,
+        "bins": 23066624,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\formula\\skrillex_first_of_the_year_q2048.fs2e"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "source_pass": "r17",
+        "source_bytes": 5202179,
+        "fold1_bytes": 5159733,
+        "archive_bytes": 9090901,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.7971051880388311,
+        "ratio_vs_fold1": 1.7618936871345863,
+        "under_opus": false,
+        "margin_bytes": -4032265,
+        "kbps": 165.55202659511207,
+        "snr_vs_stored_wave_db": 11.16503887649133,
+        "knot_fraction": 0.22828500150307884,
+        "knots": 8845390,
+        "bins": 38747136,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\formula\\vnv_nation_beloved_q2048.fs2e"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "source_pass": "r34",
+        "source_bytes": 2204742,
+        "fold1_bytes": 2187321,
+        "archive_bytes": 4306015,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 1.973105646471654,
+        "ratio_vs_fold1": 1.9686250897787752,
+        "under_opus": false,
+        "margin_bytes": -2123661,
+        "kbps": 196.29304057134172,
+        "snr_vs_stored_wave_db": 11.132990564919767,
+        "knot_fraction": 0.2817810965046472,
+        "knots": 4361773,
+        "bins": 15479296,
+        "zoom_bytes_match": true,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\formula\\cage_the_elephant_aint_no_rest_q2048.fs2e"
+      }
+    }
+  ]
+}

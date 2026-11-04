@@ -1,0 +1,385 @@
+{
+  "pin": "AEB2AD",
+  "rule": "refine_audio r2, unchanged",
+  "listening_note": "Q=2048 on cries_in_the_beat added a high pitched residue. Same rule, new songs.",
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "artist_note": "sublime",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "source_bytes": 1798140,
+      "seconds": 111.88244897959184,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 20631098,
+          "ratio_vs_source": 11.473577140823295,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\sublime_wrong_way_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 10806213,
+          "ratio_vs_source": 6.009661650372051,
+          "snr_db": 46.11257122299233,
+          "level_delta_db": 0.0006249996705471603,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\sublime_wrong_way_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 7439699,
+          "ratio_vs_source": 4.137441467293981,
+          "snr_db": 34.13558901153526,
+          "level_delta_db": 0.001936664488926927,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\sublime_wrong_way_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 4189737,
+          "ratio_vs_source": 2.3300393740198206,
+          "snr_db": 23.243682967206695,
+          "level_delta_db": 0.013238183618698374,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\sublime_wrong_way_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 1817894,
+          "ratio_vs_source": 1.010985796434093,
+          "snr_db": 14.603321715410736,
+          "level_delta_db": 0.07503931029104673,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\sublime_wrong_way_r2_q2048.wav"
+        }
+      ]
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "artist_note": "skrillex",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "source_bytes": 11167950,
+      "seconds": 261.5172562358277,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 54243191,
+          "ratio_vs_source": 4.857040996780967,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\skrillex_first_of_the_year_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 31063134,
+          "ratio_vs_source": 2.781453534444549,
+          "snr_db": 53.248830079086815,
+          "level_delta_db": 0.00022584372333480683,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\skrillex_first_of_the_year_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 23963230,
+          "ratio_vs_source": 2.1457142985059927,
+          "snr_db": 41.23401466766305,
+          "level_delta_db": 0.0005309074523477208,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\skrillex_first_of_the_year_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 16198180,
+          "ratio_vs_source": 1.4504165939138338,
+          "snr_db": 29.314470670429515,
+          "level_delta_db": 0.004909856613617283,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\skrillex_first_of_the_year_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 8831985,
+          "ratio_vs_source": 0.7908331430566935,
+          "snr_db": 18.092745450921722,
+          "level_delta_db": 0.043591109634521494,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\skrillex_first_of_the_year_r2_q2048.wav"
+        }
+      ]
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "artist_note": "bruno",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "source_bytes": 8894614,
+      "seconds": 218.73333333333332,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 42026921,
+          "ratio_vs_source": 4.724985367549396,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\bruno_mars_just_the_way_you_are_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 22793730,
+          "ratio_vs_source": 2.562644090007728,
+          "snr_db": 52.94719525434672,
+          "level_delta_db": 0.00019713071267702385,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\bruno_mars_just_the_way_you_are_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 16595140,
+          "ratio_vs_source": 1.8657515660600898,
+          "snr_db": 40.97403916845786,
+          "level_delta_db": 0.0005413638638048257,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\bruno_mars_just_the_way_you_are_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 10168914,
+          "ratio_vs_source": 1.143266475644699,
+          "snr_db": 29.402040929390235,
+          "level_delta_db": 0.004082276182588282,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\bruno_mars_just_the_way_you_are_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 4763211,
+          "ratio_vs_source": 0.5355163248230895,
+          "snr_db": 19.720075618178335,
+          "level_delta_db": 0.016505704009288885,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\bruno_mars_just_the_way_you_are_r2_q2048.wav"
+        }
+      ]
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "artist_note": "eminem",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "source_bytes": 7689531,
+      "seconds": 320.3395918367347,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 58717804,
+          "ratio_vs_source": 7.636070912517291,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\eminem_lose_yourself_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 30622890,
+          "ratio_vs_source": 3.9824132317042484,
+          "snr_db": 52.73192895883038,
+          "level_delta_db": 0.0001545617281492865,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\eminem_lose_yourself_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 21615243,
+          "ratio_vs_source": 2.8109962753255044,
+          "snr_db": 40.893293590147685,
+          "level_delta_db": 0.00042196104484209477,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\eminem_lose_yourself_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 12778695,
+          "ratio_vs_source": 1.661830220854822,
+          "snr_db": 29.609574323881173,
+          "level_delta_db": 0.003723943707257281,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\eminem_lose_yourself_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 5912790,
+          "ratio_vs_source": 0.7689402643672286,
+          "snr_db": 19.739407149019705,
+          "level_delta_db": 0.021268070885454012,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\eminem_lose_yourself_r2_q2048.wav"
+        }
+      ]
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "artist_note": "vnv",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "source_bytes": 7029084,
+      "seconds": 439.3012244897959,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 86270876,
+          "ratio_vs_source": 12.273416564661911,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\vnv_nation_beloved_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 47312571,
+          "ratio_vs_source": 6.7309724851773005,
+          "snr_db": 50.50835960565722,
+          "level_delta_db": 0.0003463578639367951,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\vnv_nation_beloved_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 35018685,
+          "ratio_vs_source": 4.9819699124380925,
+          "snr_db": 38.56165559140764,
+          "level_delta_db": 0.0008597898659002368,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\vnv_nation_beloved_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 22242252,
+          "ratio_vs_source": 3.1643172851540826,
+          "snr_db": 26.870594417858893,
+          "level_delta_db": 0.008240486968878026,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\vnv_nation_beloved_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 10963632,
+          "ratio_vs_source": 1.5597525936523167,
+          "snr_db": 16.73492420838852,
+          "level_delta_db": 0.04225979523713112,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\vnv_nation_beloved_r2_q2048.wav"
+        }
+      ]
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "artist_note": "clay",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "source_bytes": 5146830,
+      "seconds": 223.76,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 39512150,
+          "ratio_vs_source": 7.67698758264796,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\clay_walker_fore_she_was_mama_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 20437000,
+          "ratio_vs_source": 3.9707936729987194,
+          "snr_db": 48.442851285036184,
+          "level_delta_db": 0.00039837335268554043,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\clay_walker_fore_she_was_mama_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 14084760,
+          "ratio_vs_source": 2.7365893180851124,
+          "snr_db": 36.54249586685447,
+          "level_delta_db": 0.0011921880501868111,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\clay_walker_fore_she_was_mama_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 7913703,
+          "ratio_vs_source": 1.537587796760336,
+          "snr_db": 25.43363413178847,
+          "level_delta_db": 0.008733661893008686,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\clay_walker_fore_she_was_mama_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 3355496,
+          "ratio_vs_source": 0.651953921151466,
+          "snr_db": 16.493433367573907,
+          "level_delta_db": 0.0418774169075064,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\clay_walker_fore_she_was_mama_r2_q2048.wav"
+        }
+      ]
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "artist_note": "cage",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "source_bytes": 7024806,
+      "seconds": 175.49333333333334,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 35316646,
+          "ratio_vs_source": 5.02741940489175,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\cage_the_elephant_aint_no_rest_r2_q1.wav"
+        },
+        {
+          "q": 32,
+          "archive_bytes": 19774780,
+          "ratio_vs_source": 2.8149930403772006,
+          "snr_db": 50.420894357963384,
+          "level_delta_db": 0.0003449927128911238,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\cage_the_elephant_aint_no_rest_r2_q32.wav"
+        },
+        {
+          "q": 128,
+          "archive_bytes": 14843602,
+          "ratio_vs_source": 2.1130266088487,
+          "snr_db": 38.42507694627575,
+          "level_delta_db": 0.0008039065438045462,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\cage_the_elephant_aint_no_rest_r2_q128.wav"
+        },
+        {
+          "q": 512,
+          "archive_bytes": 9558559,
+          "ratio_vs_source": 1.3606865442262748,
+          "snr_db": 26.56494639992055,
+          "level_delta_db": 0.008303903335530133,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\cage_the_elephant_aint_no_rest_r2_q512.wav"
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 4762795,
+          "ratio_vs_source": 0.6779966592671741,
+          "snr_db": 16.49382370184362,
+          "level_delta_db": 0.039273907082048996,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\refine\\variety\\cage_the_elephant_aint_no_rest_r2_q2048.wav"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "stem": "cage_the_elephant_aint_no_rest",
+  "band": "11-22",
+  "rule": "count peaks kept at the stored rung and at the next rung; do not pack",
+  "mid": {
+    "all": {
+      "frames": 30233,
+      "kept_at_stored": 2452,
+      "kept_at_next": 8353,
+      "median_peak": 18478.328014677332,
+      "median_stored_b": 1.0,
+      "median_peak_keeping_b": 3.0
+    },
+    "quiet": {
+      "frames": 5266,
+      "kept_at_stored": 109,
+      "kept_at_next": 615,
+      "median_peak": 7513.0684265411855,
+      "median_stored_b": 1.0,
+      "median_peak_keeping_b": 4.0
+    }
+  },
+  "side": {
+    "all": {
+      "frames": 30233,
+      "kept_at_stored": 2582,
+      "kept_at_next": 8121,
+      "median_peak": 14897.675941569214,
+      "median_stored_b": 1.0,
+      "median_peak_keeping_b": 3.0
+    },
+    "quiet": {
+      "frames": 5266,
+      "kept_at_stored": 63,
+      "kept_at_next": 312,
+      "median_peak": 5207.666266120934,
+      "median_stored_b": 1.0,
+      "median_peak_keeping_b": 5.0
+    }
+  }
+}

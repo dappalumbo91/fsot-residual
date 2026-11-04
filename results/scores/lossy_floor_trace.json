@@ -1,0 +1,73 @@
+{
+  "rule": "bucket entropy and order-0 entropy of the four size-miss quotients; zoom stays; no archive",
+  "songs": [
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "pass": "r26",
+      "archive_bytes": 2765356,
+      "opus_bytes": 2741169,
+      "miss_bytes": 24187,
+      "bucket_ideal_bytes": 2659075.886240185,
+      "order0_ideal_bytes": 2942634.43338883,
+      "zoom_stored_bytes": 40481,
+      "model_bucket_bytes": 40842,
+      "payload_bytes": 2684007,
+      "order0_model_bytes": 4748,
+      "bucket_floor_bytes": 2699582.886240185,
+      "bucket_with_tables_bytes": 2740424.886240185,
+      "order0_floor_bytes": 2987889.43338883,
+      "verdict": "payload"
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "pass": "r16",
+      "archive_bytes": 3296457,
+      "opus_bytes": 3056747,
+      "miss_bytes": 239710,
+      "bucket_ideal_bytes": 3205700.8775043273,
+      "order0_ideal_bytes": 3376890.7566436813,
+      "zoom_stored_bytes": 27844,
+      "model_bucket_bytes": 45008,
+      "payload_bytes": 3223579,
+      "order0_model_bytes": 4576,
+      "bucket_floor_bytes": 3233570.8775043273,
+      "bucket_with_tables_bytes": 3278578.8775043273,
+      "order0_floor_bytes": 3409336.7566436813,
+      "verdict": "floor"
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "pass": "r17",
+      "archive_bytes": 5202179,
+      "opus_bytes": 5058636,
+      "miss_bytes": 143543,
+      "bucket_ideal_bytes": 5083051.135503554,
+      "order0_ideal_bytes": 5513169.151639182,
+      "zoom_stored_bytes": 51197,
+      "model_bucket_bytes": 36258,
+      "payload_bytes": 5114698,
+      "order0_model_bytes": 3692,
+      "bucket_floor_bytes": 5134274.135503554,
+      "bucket_with_tables_bytes": 5170532.135503554,
+      "order0_floor_bytes": 5568084.151639182,
+      "verdict": "floor"
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "pass": "r34",
+      "archive_bytes": 2204742,
+      "opus_bytes": 2182354,
+      "miss_bytes": 22388,
+      "bucket_ideal_bytes": 2129993.2382026827,
+      "order0_ideal_bytes": 2269463.146209452,
+      "zoom_stored_bytes": 37497,
+      "model_bucket_bytes": 29210,
+      "payload_bytes": 2138009,
+      "order0_model_bytes": 3552,
+      "bucket_floor_bytes": 2167516.2382026827,
+      "bucket_with_tables_bytes": 2196726.2382026827,
+      "order0_floor_bytes": 2310538.146209452,
+      "verdict": "floor"
+    }
+  ]
+}

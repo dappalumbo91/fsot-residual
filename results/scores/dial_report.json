@@ -1,0 +1,114 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one finer rung on the octave furthest behind that song's Opus 96 file",
+    "bands": {
+      "skrillex_first_of_the_year": "5.5-11",
+      "cage_the_elephant_aint_no_rest": "5.5-11",
+      "vnv_nation_beloved": "11-22"
+    },
+    "kept": "every other band stays, including 0-2.8 kHz",
+    "songs": [
+      "skrillex_first_of_the_year",
+      "cage_the_elephant_aint_no_rest",
+      "vnv_nation_beloved"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "skrillex_first_of_the_year",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "dial_band": 2,
+        "dial_name": "5.5-11",
+        "archive_bytes": 3296457,
+        "r15_bytes": 2916151,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 1.0784199673705412,
+        "ratio_vs_r15": 1.1304136857110623,
+        "under_opus": false,
+        "mid_zoom_before": 0.0,
+        "mid_zoom_after": 1.0,
+        "side_zoom_before": 0.0,
+        "side_zoom_after": 1.0,
+        "mean_abs_error": 1443.4006177625058,
+        "hop_mean_mid": 1266.947005776149,
+        "hop_mean_side": 1372.072506920835,
+        "snr_db": 14.956401450855697,
+        "band_snr_db": {
+          "0-2.8": 31.82759494328789,
+          "2.8-5.5": 14.414554216659607,
+          "5.5-11": 5.479272496999361,
+          "11-22": 0.23378172320772173
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r16\\skrillex_first_of_the_year_q2048.wav"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "dial_band": 2,
+        "dial_name": "5.5-11",
+        "archive_bytes": 1722456,
+        "r15_bytes": 1583796,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 0.7892651696287587,
+        "ratio_vs_r15": 1.0875491540577196,
+        "under_opus": true,
+        "mid_zoom_before": 0.0,
+        "mid_zoom_after": 1.0,
+        "side_zoom_before": 0.0,
+        "side_zoom_after": 1.0,
+        "mean_abs_error": 1031.4152837171946,
+        "hop_mean_mid": 921.8333649809529,
+        "hop_mean_side": 915.3344667470864,
+        "snr_db": 15.196317416855738,
+        "band_snr_db": {
+          "0-2.8": 27.946242998926554,
+          "2.8-5.5": 10.554966840960011,
+          "5.5-11": 3.660957747387519,
+          "11-22": 0.036997855137247425
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r16\\cage_the_elephant_aint_no_rest_q2048.wav"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "archive_bytes": 4963847,
+        "r15_bytes": 4851163,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 0.9812619449195396,
+        "ratio_vs_r15": 1.023228244443652,
+        "under_opus": true,
+        "mid_zoom_before": 0.0,
+        "mid_zoom_after": 1.0,
+        "side_zoom_before": 0.0,
+        "side_zoom_after": 1.0,
+        "mean_abs_error": 776.7464976588258,
+        "hop_mean_mid": 610.4832320705266,
+        "hop_mean_side": 924.375333522795,
+        "snr_db": 17.826012064135075,
+        "band_snr_db": {
+          "0-2.8": 27.171909374652117,
+          "2.8-5.5": 13.423834307741412,
+          "5.5-11": 6.703482311194193,
+          "11-22": 1.4245845837193372
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r16\\vnv_nation_beloved_q2048.wav"
+      }
+    }
+  ]
+}

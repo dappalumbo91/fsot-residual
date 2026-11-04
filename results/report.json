@@ -1,0 +1,193 @@
+{
+  "pin": "AEB2AD",
+  "engine_sha256": "aeb2adad6e80f487772c5df90a2e3dda71624ab831a6a83b94ab471ac9aac170",
+  "K": 0.4201087636498879,
+  "poof": 0.1534822148944508,
+  "suction": 0.14703398542810284,
+  "valve": 0.510728588773961,
+  "phase_split_bits": 4.0,
+  "video_q_ladder": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "audio_q_ladder": [
+    1,
+    16,
+    64,
+    256
+  ],
+  "notes": [
+    "Q is the declared residual step. It was fixed before this run.",
+    "The valve fraction is recorded from the engine and is not a file's compression ratio.",
+    "Byte archives must restore sha256-identical bytes.",
+    "Q=1 picture and pcm modes must restore the decoded samples exactly.",
+    "An already-compressed mpeg4 or mp3 container is an entropy control."
+  ],
+  "containers": [
+    {
+      "label": "direction_md",
+      "path": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\DIRECTION.md",
+      "bytes": 22608,
+      "fspack_bytes": 19238,
+      "zlib9_bytes": 9405,
+      "fspack_ratio": 0.8509377211606511,
+      "zlib9_ratio": 0.4160031847133758,
+      "phase": "free",
+      "d_eff": 14,
+      "entropy_bits": 4.86283600942706,
+      "sha256_ok": true
+    },
+    {
+      "label": "sample_avi_container",
+      "path": "G:\\Cinema and movies and shows\\movies\\Getaway [2013] HDRip XViD-ETRG\\sample.avi",
+      "bytes": 4937728,
+      "fspack_bytes": 4929661,
+      "zlib9_bytes": 4889063,
+      "fspack_ratio": 0.9983662526570924,
+      "zlib9_ratio": 0.9901442525793239,
+      "phase": "free",
+      "d_eff": 25,
+      "entropy_bits": 7.979443492440967,
+      "sha256_ok": true
+    },
+    {
+      "label": "cries_mp3_container",
+      "path": "G:\\Music discography's\\music i made\\cries_in_the_beat.mp3",
+      "bytes": 4227964,
+      "fspack_bytes": 4224173,
+      "zlib9_bytes": 4218768,
+      "fspack_ratio": 0.9991033509273021,
+      "zlib9_ratio": 0.9978249578284015,
+      "phase": "free",
+      "d_eff": 25,
+      "entropy_bits": 7.96862018648378,
+      "sha256_ok": true
+    }
+  ],
+  "video": {
+    "path": "G:\\Cinema and movies and shows\\movies\\Getaway [2013] HDRip XViD-ETRG\\sample.avi",
+    "codec": "mpeg4",
+    "width": 640,
+    "height": 272,
+    "fps": 23.976023976023978,
+    "frames": 24,
+    "raw_yuv_bytes": 6266880,
+    "zlib9_raw_bytes": 2122626,
+    "ladder": [
+      {
+        "q": 1,
+        "raw_bytes": 6266880,
+        "fspack_bytes": 2030877,
+        "ratio_vs_raw": 0.3240650850183823,
+        "psnr_y_db": null,
+        "psnr_u_db": null,
+        "psnr_v_db": null,
+        "exact": true,
+        "ssim_y_8x8": 1.0,
+        "max_abs_y": 0,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\getaway_q1.fsp"
+      },
+      {
+        "q": 4,
+        "raw_bytes": 6266880,
+        "fspack_bytes": 1419122,
+        "ratio_vs_raw": 0.22644792943218955,
+        "psnr_y_db": 46.310588846266626,
+        "psnr_u_db": 46.42870139199582,
+        "psnr_v_db": 45.90128878287035,
+        "exact": false,
+        "ssim_y_8x8": 0.9834599950865434,
+        "max_abs_y": 2,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\getaway_q4.fsp"
+      },
+      {
+        "q": 8,
+        "raw_bytes": 6266880,
+        "fspack_bytes": 922670,
+        "ratio_vs_raw": 0.14722956239787582,
+        "psnr_y_db": 40.771859994161865,
+        "psnr_u_db": 40.92409947015639,
+        "psnr_v_db": 39.97597785694561,
+        "exact": false,
+        "ssim_y_8x8": 0.9578279418950691,
+        "max_abs_y": 4,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\getaway_q8.fsp"
+      },
+      {
+        "q": 16,
+        "raw_bytes": 6266880,
+        "fspack_bytes": 547574,
+        "ratio_vs_raw": 0.08737585529003268,
+        "psnr_y_db": 34.89424956308301,
+        "psnr_u_db": 35.73011187657749,
+        "psnr_v_db": 36.289564366787054,
+        "exact": false,
+        "ssim_y_8x8": 0.907810090619607,
+        "max_abs_y": 8,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\getaway_q16.fsp"
+      }
+    ],
+    "contact_sheet": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\getaway_contact.png",
+    "q8_view_mp4": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\getaway_q8.mp4",
+    "contact_order": [
+      "source",
+      "q1",
+      "q4",
+      "q8",
+      "q16"
+    ]
+  },
+  "audio": {
+    "path": "G:\\Music discography's\\music i made\\cries_in_the_beat.mp3",
+    "decoded": "5 seconds, 16000 Hz, mono, s16le",
+    "zlib9_raw_bytes": 156456,
+    "ladder": [
+      {
+        "q": 1,
+        "raw_bytes": 160000,
+        "fspack_bytes": 143202,
+        "ratio_vs_raw": 0.8950125,
+        "snr_db": null,
+        "exact": true,
+        "max_abs": 0,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\cries_q1.fsp"
+      },
+      {
+        "q": 16,
+        "raw_bytes": 160000,
+        "fspack_bytes": 96721,
+        "ratio_vs_raw": 0.60450625,
+        "snr_db": 66.24305945949216,
+        "exact": false,
+        "max_abs": 8,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\cries_q16.fsp"
+      },
+      {
+        "q": 64,
+        "raw_bytes": 160000,
+        "fspack_bytes": 65563,
+        "ratio_vs_raw": 0.40976875,
+        "snr_db": 54.24788227432617,
+        "exact": false,
+        "max_abs": 32,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\cries_q64.fsp"
+      },
+      {
+        "q": 256,
+        "raw_bytes": 160000,
+        "fspack_bytes": 45294,
+        "ratio_vs_raw": 0.2830875,
+        "snr_db": 42.16726180593391,
+        "exact": false,
+        "max_abs": 128,
+        "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\cries_q256.fsp"
+      }
+    ],
+    "listen": {
+      "q1": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\cries_q1.wav",
+      "q64": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\cries_q64.wav"
+    }
+  }
+}

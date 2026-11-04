@@ -1,0 +1,196 @@
+{
+  "rule": "order-0 entropy of the flac2 zigzag integer; no archive",
+  "verdict": "over",
+  "next": "no coder of the second-difference residual can pass; do not pack; do not score a third difference or an LPC fit",
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "ideal_integer_bytes": 13334234.703978773,
+      "ideal_plane_bytes": 13337657.782497197,
+      "flac_bytes": 10659386,
+      "ideal_over_flac": 1.250938347103555,
+      "streams": {
+        "mid": {
+          "n": 4934016,
+          "h_integer": 10.258181856016712,
+          "h_planes": 10.260331068351242,
+          "ideal_integer_bytes": 6326754.17606202,
+          "ideal_plane_bytes": 6328079.707067765,
+          "mean_abs": 227.78928949561575,
+          "rice_k": 8
+        },
+        "side": {
+          "n": 4934016,
+          "h_integer": 11.361909694523495,
+          "h_planes": 11.365310652303409,
+          "ideal_integer_bytes": 7007480.527916755,
+          "ideal_plane_bytes": 7009578.075429432,
+          "mean_abs": 501.7019602287467,
+          "rice_k": 9
+        }
+      }
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "ideal_integer_bytes": 39770415.14540714,
+      "ideal_plane_bytes": 39928084.89363379,
+      "flac_bytes": 36081830,
+      "ideal_over_flac": 1.1022283278150564,
+      "streams": {
+        "mid": {
+          "n": 11532911,
+          "h_integer": 13.683998288565226,
+          "h_planes": 13.738948307658504,
+          "ideal_integer_bytes": 19727041.798271883,
+          "ideal_plane_bytes": 19806258.50822827,
+          "mean_abs": 2657.9867442833815,
+          "rice_k": 11
+        },
+        "side": {
+          "n": 11532911,
+          "h_integer": 13.903427051252025,
+          "h_planes": 13.957847336482885,
+          "ideal_integer_bytes": 20043373.347135257,
+          "ideal_plane_bytes": 20121826.38540552,
+          "mean_abs": 3066.617352548719,
+          "rice_k": 12
+        }
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "ideal_integer_bytes": 29067457.06690765,
+      "ideal_plane_bytes": 29081044.972416803,
+      "flac_bytes": 25589412,
+      "ideal_over_flac": 1.1359173499925537,
+      "streams": {
+        "mid": {
+          "n": 9646140,
+          "h_integer": 12.231859573329693,
+          "h_planes": 12.239558514904406,
+          "ideal_integer_bytes": 14748778.73808481,
+          "ideal_plane_bytes": 14758061.871619998,
+          "mean_abs": 937.589967385918,
+          "rice_k": 10
+        },
+        "side": {
+          "n": 9646140,
+          "h_integer": 11.875156967510604,
+          "h_planes": 11.87872711845095,
+          "ideal_integer_bytes": 14318678.328822842,
+          "ideal_plane_bytes": 14322983.100796806,
+          "mean_abs": 710.6454560062367,
+          "rice_k": 9
+        }
+      }
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "ideal_integer_bytes": 40524377.77152197,
+      "ideal_plane_bytes": 40744846.08711849,
+      "flac_bytes": 29262719,
+      "ideal_over_flac": 1.3848466293074806,
+      "streams": {
+        "mid": {
+          "n": 14126976,
+          "h_integer": 11.78906398116026,
+          "h_planes": 11.840459952625116,
+          "ideal_integer_bytes": 20817977.990539428,
+          "ideal_plane_bytes": 20908736.69746202,
+          "mean_abs": 863.4981851742368,
+          "rice_k": 10
+        },
+        "side": {
+          "n": 14126976,
+          "h_integer": 11.15958562171128,
+          "h_planes": 11.233039195171829,
+          "ideal_integer_bytes": 19706399.78098254,
+          "ideal_plane_bytes": 19836109.38965647,
+          "mean_abs": 535.1171075819765,
+          "rice_k": 9
+        }
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "ideal_integer_bytes": 61908873.97398415,
+      "ideal_plane_bytes": 61999554.63293748,
+      "flac_bytes": 49466148,
+      "ideal_over_flac": 1.2515402245184757,
+      "streams": {
+        "mid": {
+          "n": 19373184,
+          "h_integer": 12.80478082015831,
+          "h_planes": 12.829326321693825,
+          "ideal_integer_bytes": 31008671.863574732,
+          "ideal_plane_bytes": 31068112.42827721,
+          "mean_abs": 1441.0588158353319,
+          "rice_k": 10
+        },
+        "side": {
+          "n": 19373184,
+          "h_integer": 12.759989110890361,
+          "h_planes": 12.772889455717872,
+          "ideal_integer_bytes": 30900202.11040942,
+          "ideal_plane_bytes": 30931442.204660274,
+          "mean_abs": 1368.1987803347142,
+          "rice_k": 10
+        }
+      }
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "ideal_integer_bytes": 27718187.7424383,
+      "ideal_plane_bytes": 27830574.50832572,
+      "flac_bytes": 23262265,
+      "ideal_over_flac": 1.1915515424847194,
+      "streams": {
+        "mid": {
+          "n": 9867816,
+          "h_integer": 11.457197275091868,
+          "h_planes": 11.504075154115453,
+          "ideal_integer_bytes": 14132189.323288493,
+          "ideal_plane_bytes": 14190012.108872866,
+          "mean_abs": 587.9830568385142,
+          "rice_k": 9
+        },
+        "side": {
+          "n": 9867816,
+          "h_integer": 11.014391366154221,
+          "h_planes": 11.058627278378806,
+          "ideal_integer_bytes": 13585998.41914981,
+          "ideal_plane_bytes": 13640562.399452854,
+          "mean_abs": 446.60441013492755,
+          "rice_k": 9
+        }
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "ideal_integer_bytes": 24685868.907686025,
+      "ideal_plane_bytes": 24710676.341926023,
+      "flac_bytes": 22268030,
+      "ideal_over_flac": 1.1085789316650834,
+      "streams": {
+        "mid": {
+          "n": 7739256,
+          "h_integer": 12.748892747851098,
+          "h_planes": 12.762221978980511,
+          "ideal_integer_bytes": 12333368.086520387,
+          "ideal_plane_bytes": 12346262.8780196,
+          "mean_abs": 1329.5787918115127,
+          "rice_k": 10
+        },
+        "side": {
+          "n": 7739256,
+          "h_integer": 12.76867008525433,
+          "h_planes": 12.780984077959355,
+          "ideal_integer_bytes": 12352500.821165636,
+          "ideal_plane_bytes": 12364413.463906426,
+          "mean_abs": 1390.5311447250226,
+          "rice_k": 10
+        }
+      }
+    }
+  ]
+}

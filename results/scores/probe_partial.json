@@ -1,0 +1,90 @@
+{
+  "probe_8s": [
+    {
+      "q": 1,
+      "chroma_q": 1,
+      "frames": 241,
+      "seconds": 8.041366666666667,
+      "archive_bytes": 8794389,
+      "payload_bytes": 8786117,
+      "exact": true,
+      "psnr_y_db": null,
+      "psnr_u_db": null,
+      "psnr_v_db": null,
+      "max_abs_y": 0,
+      "max_abs_u": 0,
+      "max_abs_v": 0,
+      "elapsed_s": 9.92395139997825,
+      "view": null,
+      "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q1.fspz"
+    },
+    {
+      "q": 4,
+      "chroma_q": 8,
+      "frames": 241,
+      "seconds": 8.041366666666667,
+      "archive_bytes": 7536147,
+      "payload_bytes": 7527875,
+      "exact": false,
+      "psnr_y_db": 46.396597824567145,
+      "psnr_u_db": 46.28337843750373,
+      "psnr_v_db": 46.86563958406347,
+      "max_abs_y": 2,
+      "max_abs_u": 4,
+      "max_abs_v": 4,
+      "elapsed_s": 13.951902500120923,
+      "view": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q4.mp4",
+      "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q4.fspz"
+    },
+    {
+      "q": 8,
+      "chroma_q": 16,
+      "frames": 241,
+      "seconds": 8.041366666666667,
+      "archive_bytes": 4164451,
+      "payload_bytes": 4156179,
+      "exact": false,
+      "psnr_y_db": 42.927034242240616,
+      "psnr_u_db": 42.65469495108202,
+      "psnr_v_db": 42.92363554554239,
+      "max_abs_y": 4,
+      "max_abs_u": 8,
+      "max_abs_v": 8,
+      "elapsed_s": 6.664398999884725,
+      "view": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q8.mp4",
+      "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q8.fspz"
+    },
+    {
+      "q": 16,
+      "chroma_q": 32,
+      "frames": 241,
+      "seconds": 8.041366666666667,
+      "archive_bytes": 2361199,
+      "payload_bytes": 2352927,
+      "exact": false,
+      "psnr_y_db": 38.53596217387869,
+      "psnr_u_db": 40.15633061051693,
+      "psnr_v_db": 38.24749781206809,
+      "max_abs_y": 8,
+      "max_abs_u": 16,
+      "max_abs_v": 16,
+      "elapsed_s": 3.9292254999745637,
+      "view": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q16.mp4",
+      "archive": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\watch\\southpark_s01e01_probe_q16.fspz"
+    }
+  ],
+  "probe_x264_bytes": {
+    "crf18": 611547,
+    "crf23": 287962
+  },
+  "show": {
+    "path": "G:\\Cinema and movies and shows\\showes\\South Park\\South Park Season 1\\S01E01.Cartman Gets an Anal Probe\\South Park.S01E01.Cartman Gets an Anal Probe.avi",
+    "width": 512,
+    "height": 384,
+    "fps": 29.97002997002997,
+    "codec": "mpeg4",
+    "duration": 1310.309,
+    "source_bytes": 183240704,
+    "source_bit_rate": 1118763
+  }
+}

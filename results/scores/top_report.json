@@ -1,0 +1,53 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "rule": "one finer rung on Lose Yourself's quiet 11-22 kHz octave",
+    "bands": {
+      "eminem_lose_yourself": "11-22"
+    },
+    "quiet_fraction": 0.15,
+    "kept": "loud frames and every other band stay",
+    "songs": [
+      "eminem_lose_yourself"
+    ],
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "seconds": 320.3395918367347,
+      "row": {
+        "q": 2048,
+        "dial_band": 3,
+        "dial_name": "11-22",
+        "frames_raised": 9659,
+        "frames": 55185,
+        "archive_bytes": 3464408,
+        "r26_bytes": 3451141,
+        "opus96_bytes": 3954866,
+        "ratio_vs_opus96": 0.8759861901768606,
+        "ratio_vs_r26": 1.0038442358628639,
+        "under_opus": true,
+        "kbps": 86.51838457147517,
+        "opus_kbps": 98.76683621462936,
+        "mean_abs_error": 401.19388211603103,
+        "snr_db": 25.84238619496766,
+        "quiet15_snr_db": {
+          "0-2.8": 19.26083904415853,
+          "2.8-5.5": 9.757289719415951,
+          "5.5-11": 10.28644036732338,
+          "11-22": 9.582048354049363
+        },
+        "quiet15_opus_db": {
+          "0-2.8": 21.029095429954342,
+          "2.8-5.5": 11.135722214123454,
+          "5.5-11": 8.663674696970029,
+          "11-22": 8.34699498096729
+        },
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r27\\eminem_lose_yourself_q2048.wav"
+      }
+    }
+  ]
+}

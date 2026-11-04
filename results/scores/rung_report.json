@@ -1,0 +1,96 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "songs": [
+      "vnv_nation_beloved",
+      "cage_the_elephant_aint_no_rest",
+      "skrillex_first_of_the_year"
+    ],
+    "keeps": "r10 archives for sublime, clay, eminem, bruno",
+    "band": "2.8-5.5 kHz only, one existing ladder rung coarser",
+    "approximation": "eleventh-pass quotients unchanged",
+    "above_fs8": "remain zero",
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "skrillex_first_of_the_year",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 2699660,
+        "r11_bytes": 3037814,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 0.8831807146616976,
+        "ratio_vs_r11": 0.8886850873687461,
+        "mean_abs_error": 2068.5903621384055,
+        "hop_mean_mid": 1794.364829985101,
+        "hop_mean_side": 2004.4917517419824,
+        "d2_zoom_before_mid_side": [
+          3.123213175885643,
+          3.2165053715706295
+        ],
+        "d2_zoom_after_mid_side": [
+          2.1878939891680727,
+          2.2670025748024507
+        ],
+        "snr_db": 11.339181519006429,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r12\\skrillex_first_of_the_year_q2048.wav"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 3645225,
+        "r11_bytes": 4088768,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 0.7205944448266292,
+        "ratio_vs_r11": 0.8915216025952072,
+        "mean_abs_error": 1127.9423205550518,
+        "hop_mean_mid": 1001.2692123735043,
+        "hop_mean_side": 986.7666330661841,
+        "d2_zoom_before_mid_side": [
+          2.516345569386083,
+          2.417175401041254
+        ],
+        "d2_zoom_after_mid_side": [
+          1.7173551098073416,
+          1.605499616797484
+        ],
+        "snr_db": 13.699545442101801,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r12\\vnv_nation_beloved_q2048.wav"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 1531376,
+        "r11_bytes": 1744300,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 0.7017083387937979,
+        "ratio_vs_r11": 0.8779315484721665,
+        "mean_abs_error": 1267.1677866709667,
+        "hop_mean_mid": 1120.8969626123946,
+        "hop_mean_side": 1157.074024324736,
+        "d2_zoom_before_mid_side": [
+          2.8558859524360796,
+          2.8786756193563323
+        ],
+        "d2_zoom_after_mid_side": [
+          1.9430423709191942,
+          1.9534283729699335
+        ],
+        "snr_db": 12.574076412977618,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r12\\cage_the_elephant_aint_no_rest_q2048.wav"
+      }
+    }
+  ]
+}

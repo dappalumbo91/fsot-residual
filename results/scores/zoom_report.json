@@ -1,0 +1,539 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "failure": "one coefficient zoom Q*128 on every bin",
+    "floor": "absolute channel error <= Q/2, each frame tested at Q/4",
+    "zoom": "(Q*128) / 2^b, b = 0..8, smallest b that meets the frame test",
+    "window": 512,
+    "hop": 256,
+    "q": [
+      1,
+      32,
+      128,
+      512,
+      2048
+    ],
+    "entropy": "zlib-9"
+  },
+  "bar": "opus 96 kbps on the same decoded song",
+  "songs": [
+    {
+      "stem": "sublime_wrong_way",
+      "source": "G:\\Music discography's\\Sublime\\At The House Of Blues\\Sublime_At The House Of Blues__02-wrongway.mp3",
+      "source_bytes": 1798140,
+      "opus96_bytes": 1327328,
+      "seconds": 111.88244897959184,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 18558563,
+          "ratio_vs_opus96": 13.981896712794427,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 11337653,
+          "ratio_vs_opus96": 8.541711619132574,
+          "ratio_vs_r5": 2.733590900224736,
+          "floor_fraction_lr": 0.9999877381832568,
+          "mean_zoom": 5.454656290531777,
+          "snr_db": 65.56483988271461,
+          "level_delta_db": 4.080900643489611e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 128,
+          "archive_bytes": 8898721,
+          "ratio_vs_opus96": 6.7042366317895805,
+          "ratio_vs_r5": 3.7890341513430013,
+          "floor_fraction_lr": 0.9999916903390665,
+          "mean_zoom": 5.566199740596628,
+          "snr_db": 54.361831625958686,
+          "level_delta_db": 5.904068857055577e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 6043270,
+          "ratio_vs_opus96": 4.5529590274596785,
+          "ratio_vs_r5": 5.759724521529618,
+          "floor_fraction_lr": 0.9999963518561755,
+          "mean_zoom": 5.4318287937743195,
+          "snr_db": 41.94749116043883,
+          "level_delta_db": 0.00022732579692124515,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 3243067,
+          "ratio_vs_opus96": 2.4433048952481977,
+          "ratio_vs_r5": 11.097272789488091,
+          "floor_fraction_lr": 0.9999995946506862,
+          "mean_zoom": 5.032996108949416,
+          "snr_db": 30.13696678185852,
+          "level_delta_db": 0.003121810909029586,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\sublime_wrong_way_q2048.wav",
+          "kept_for_listening": true
+        }
+      ]
+    },
+    {
+      "stem": "skrillex_first_of_the_year",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "source_bytes": 11167950,
+      "opus96_bytes": 3056747,
+      "seconds": 261.5172562358277,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 44654690,
+          "ratio_vs_opus96": 14.60856590355695,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 39611830,
+          "ratio_vs_opus96": 12.958818639553748,
+          "ratio_vs_r5": 2.0579641611785826,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.752030986415697,
+          "snr_db": 73.95160860829414,
+          "level_delta_db": -7.815269323595027e-07,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 128,
+          "archive_bytes": 32639564,
+          "ratio_vs_opus96": 10.677875532387862,
+          "ratio_vs_r5": 2.655522327635464,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.790664121459646,
+          "snr_db": 62.78177015878181,
+          "level_delta_db": -1.4042274480214461e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 25887525,
+          "ratio_vs_opus96": 8.46897862335352,
+          "ratio_vs_r5": 4.201114691983737,
+          "floor_fraction_lr": 0.9999999566458113,
+          "mean_zoom": 5.759866376631448,
+          "snr_db": 50.83522080248969,
+          "level_delta_db": 2.0854091139671507e-05,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 18614063,
+          "ratio_vs_opus96": 6.08950070123566,
+          "ratio_vs_r5": 9.938551936419966,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.645110095001332,
+          "snr_db": 38.52602504398624,
+          "level_delta_db": 0.0004714149440907436,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\skrillex_first_of_the_year_q2048.wav",
+          "kept_for_listening": true
+        }
+      ]
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "source_bytes": 8894614,
+      "opus96_bytes": 2741169,
+      "seconds": 218.73333333333332,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 37326350,
+          "ratio_vs_opus96": 13.616945908844,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 27322691,
+          "ratio_vs_opus96": 9.967532465163586,
+          "ratio_vs_r5": 2.415612283257283,
+          "floor_fraction_lr": 0.9999998444973844,
+          "mean_zoom": 5.686428533517329,
+          "snr_db": 73.21753625228452,
+          "level_delta_db": -1.669449174590847e-07,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 128,
+          "archive_bytes": 21897852,
+          "ratio_vs_opus96": 7.988508552373093,
+          "ratio_vs_r5": 3.3891318606858976,
+          "floor_fraction_lr": 0.9999999481657948,
+          "mean_zoom": 5.73414362294995,
+          "snr_db": 62.000040391064786,
+          "level_delta_db": 2.514597903212216e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 16158412,
+          "ratio_vs_opus96": 5.894715721650143,
+          "ratio_vs_r5": 5.376450761211883,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.623215328273446,
+          "snr_db": 49.818011392725666,
+          "level_delta_db": 3.289293961226058e-05,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\bruno_mars_just_the_way_you_are_q512.wav",
+          "kept_for_listening": true
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 9967456,
+          "ratio_vs_opus96": 3.6362063046824185,
+          "ratio_vs_r5": 9.700545490820085,
+          "floor_fraction_lr": 0.999999740828974,
+          "mean_zoom": 5.2895148877448115,
+          "snr_db": 37.103667010330305,
+          "level_delta_db": 0.0006079608899229366,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        }
+      ]
+    },
+    {
+      "stem": "eminem_lose_yourself",
+      "source": "G:\\Music discography's\\eminem\\Eminem - 8 Mile [2002]\\01 - Lose Yourself - Eminem.mp3",
+      "source_bytes": 7689531,
+      "opus96_bytes": 3954866,
+      "seconds": 320.3395918367347,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 53966805,
+          "ratio_vs_opus96": 13.645672192180468,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 29222462,
+          "ratio_vs_opus96": 7.38898915917758,
+          "ratio_vs_r5": 2.2640915427887323,
+          "floor_fraction_lr": 0.9999975578637637,
+          "mean_zoom": 5.268795868442512,
+          "snr_db": 72.16242137688126,
+          "level_delta_db": -1.4871831410063465e-06,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\eminem_lose_yourself_q32.wav",
+          "kept_for_listening": true
+        },
+        {
+          "q": 128,
+          "archive_bytes": 22798153,
+          "ratio_vs_opus96": 5.7645829213935444,
+          "ratio_vs_r5": 2.9872056004684526,
+          "floor_fraction_lr": 0.9999927089845697,
+          "mean_zoom": 5.234166893177494,
+          "snr_db": 60.5359110042123,
+          "level_delta_db": 6.880967661152389e-07,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 16656702,
+          "ratio_vs_opus96": 4.211698196601351,
+          "ratio_vs_r5": 4.692449070085715,
+          "floor_fraction_lr": 0.9999905499945636,
+          "mean_zoom": 5.095361058258585,
+          "snr_db": 48.51350176017222,
+          "level_delta_db": 2.8914584386855572e-05,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 10637662,
+          "ratio_vs_opus96": 2.6897654686656893,
+          "ratio_vs_r5": 9.18090883356118,
+          "floor_fraction_lr": 0.9999951157275272,
+          "mean_zoom": 4.701177856301531,
+          "snr_db": 36.25653024997072,
+          "level_delta_db": 0.0006064648918315029,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        }
+      ]
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "source_bytes": 7029084,
+      "opus96_bytes": 5058636,
+      "seconds": 439.3012244897959,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 74926872,
+          "ratio_vs_opus96": 14.81167492581004,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 48787836,
+          "ratio_vs_opus96": 9.644464634340165,
+          "ratio_vs_r5": 2.085913609759858,
+          "floor_fraction_lr": 0.9999993805871044,
+          "mean_zoom": 5.461706176167446,
+          "snr_db": 70.10294300804131,
+          "level_delta_db": -3.1984700016031117e-07,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\vnv_nation_beloved_q32.wav",
+          "kept_for_listening": true
+        },
+        {
+          "q": 128,
+          "archive_bytes": 39212326,
+          "ratio_vs_opus96": 7.751561092753066,
+          "ratio_vs_r5": 2.620150495029393,
+          "floor_fraction_lr": 0.9999936768266899,
+          "mean_zoom": 5.471173921086709,
+          "snr_db": 58.64881747567678,
+          "level_delta_db": 9.488623929257313e-07,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 29772211,
+          "ratio_vs_opus96": 5.88542267124972,
+          "ratio_vs_r5": 4.030856303130377,
+          "floor_fraction_lr": 0.9999973416863227,
+          "mean_zoom": 5.372684267554639,
+          "snr_db": 46.633042574193404,
+          "level_delta_db": 6.749521068009989e-05,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 20677439,
+          "ratio_vs_opus96": 4.087552257169719,
+          "ratio_vs_r5": 8.0730691535424,
+          "floor_fraction_lr": 0.9999992773516218,
+          "mean_zoom": 5.211223869552578,
+          "snr_db": 34.441644699653494,
+          "level_delta_db": 0.0012831822283746446,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        }
+      ]
+    },
+    {
+      "stem": "clay_walker_fore_she_was_mama",
+      "source": "G:\\Music discography's\\Clay Walker (Discography)\\01- 'Fore She Was Mama.mp3",
+      "source_bytes": 5146830,
+      "opus96_bytes": 2796589,
+      "seconds": 223.76,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 36840148,
+          "ratio_vs_opus96": 13.173243547764795,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 23154548,
+          "ratio_vs_opus96": 8.279567716242894,
+          "ratio_vs_r5": 2.43422988262378,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.413601224447442,
+          "snr_db": 68.3097731199283,
+          "level_delta_db": 4.412578940493913e-07,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\clay_walker_fore_she_was_mama_q32.wav",
+          "kept_for_listening": true
+        },
+        {
+          "q": 128,
+          "archive_bytes": 18531240,
+          "ratio_vs_opus96": 6.626372341448815,
+          "ratio_vs_r5": 3.6492230510701473,
+          "floor_fraction_lr": 0.9999961997670002,
+          "mean_zoom": 5.430320639203072,
+          "snr_db": 57.08494160159474,
+          "level_delta_db": -1.0833788592270952e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 13474737,
+          "ratio_vs_opus96": 4.81827576379654,
+          "ratio_vs_r5": 6.456009164597669,
+          "floor_fraction_lr": 0.9999972131624667,
+          "mean_zoom": 5.337994189062987,
+          "snr_db": 44.978905785072946,
+          "level_delta_db": 0.00011303412602530845,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 8255645,
+          "ratio_vs_opus96": 2.9520408612062767,
+          "ratio_vs_r5": 11.804233749892763,
+          "floor_fraction_lr": 0.9999916901571736,
+          "mean_zoom": 5.0795631420566565,
+          "snr_db": 32.47014215209959,
+          "level_delta_db": 0.0018841835891301568,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        }
+      ]
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "source_bytes": 7024806,
+      "opus96_bytes": 2182354,
+      "seconds": 175.49333333333334,
+      "ladder": [
+        {
+          "q": 1,
+          "archive_bytes": 29628854,
+          "ratio_vs_opus96": 13.576557240484357,
+          "ratio_vs_r5": 1.0,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 0.0,
+          "snr_db": null,
+          "level_delta_db": 0.0,
+          "exact": true,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 32,
+          "archive_bytes": 24567876,
+          "ratio_vs_opus96": 11.257511842716626,
+          "ratio_vs_r5": 2.263408746891805,
+          "floor_fraction_lr": 0.9999999353943066,
+          "mean_zoom": 5.7688949161512255,
+          "snr_db": 71.03542575935543,
+          "level_delta_db": -9.367510659164717e-07,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 128,
+          "archive_bytes": 19951654,
+          "ratio_vs_opus96": 9.14226289593714,
+          "ratio_vs_r5": 3.112103816791988,
+          "floor_fraction_lr": 0.9999998707886133,
+          "mean_zoom": 5.805808222802898,
+          "snr_db": 59.88244141365605,
+          "level_delta_db": -2.5195557406184704e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 512,
+          "archive_bytes": 15177952,
+          "ratio_vs_opus96": 6.954853337267923,
+          "ratio_vs_r5": 5.029329120232427,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.736860384348229,
+          "snr_db": 47.72469062215173,
+          "level_delta_db": 5.548251427299651e-06,
+          "exact": false,
+          "wav": null,
+          "kept_for_listening": false
+        },
+        {
+          "q": 2048,
+          "archive_bytes": 10147251,
+          "ratio_vs_opus96": 4.64968149072057,
+          "ratio_vs_r5": 10.523355733930682,
+          "floor_fraction_lr": 1.0,
+          "mean_zoom": 5.500760758111997,
+          "snr_db": 35.15337035072737,
+          "level_delta_db": 0.0009508000918365218,
+          "exact": false,
+          "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r6\\cage_the_elephant_aint_no_rest_q2048.wav",
+          "kept_for_listening": true
+        }
+      ]
+    }
+  ]
+}

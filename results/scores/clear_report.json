@@ -1,0 +1,33 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "song": "vnv_nation_beloved",
+    "keeps": "r12 skrillex and cage; r10 sublime, clay, eminem, bruno",
+    "change": "mid 5.5-11 kHz returns from the ninth pass",
+    "side_above_fs8": "stays zero",
+    "top_octave": "stays zero",
+    "coder": "tenth-pass magnitude bucket, not retuned",
+    "q": 2048
+  },
+  "songs": [
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 4799919,
+        "r13_bytes": 3868438,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 0.948856371559448,
+        "ratio_vs_r13": 1.240789951913408,
+        "mean_abs_error": 827.3670302207422,
+        "hop_mean_mid": 644.3176122101931,
+        "hop_mean_side": 986.7666330661841,
+        "mid_d1_zoom": 2.1269193160495785,
+        "snr_db": 16.88372449660091,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r14\\vnv_nation_beloved_q2048.wav"
+      }
+    }
+  ]
+}

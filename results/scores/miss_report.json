@@ -1,0 +1,113 @@
+{
+  "pin": "AEB2AD",
+  "declared": {
+    "songs": [
+      "skrillex_first_of_the_year",
+      "bruno_mars_just_the_way_you_are",
+      "vnv_nation_beloved",
+      "cage_the_elephant_aint_no_rest"
+    ],
+    "keeps": "r8 archives for sublime, clay, eminem",
+    "floor": "mean absolute hop error <= Q/4",
+    "order": "d0, d1, d2, approximation",
+    "coder": "static order-0 rANS per octave band"
+  },
+  "songs": [
+    {
+      "stem": "skrillex_first_of_the_year",
+      "source": "G:\\Music discography's\\Skrillex\\01 First of the Year (Equinox).mp3",
+      "seconds": 261.5172562358277,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 7037053,
+        "r8_bytes": 8175254,
+        "opus96_bytes": 3056747,
+        "ratio_vs_opus96": 2.302137860935171,
+        "ratio_vs_r8": 0.8607748456500557,
+        "mean_abs_error": 536.5874914841535,
+        "mean_abs_limit": 512.0,
+        "floor_fraction_lr": 0.8662490328764351,
+        "mean_zoom_a_d2_d1_d0": [
+          3.4380826600372902,
+          3.1698592737281364,
+          2.993662878451567,
+          1.8210956228358341
+        ],
+        "snr_db": 24.170988240213195,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\skrillex_first_of_the_year_q2048.wav"
+      }
+    },
+    {
+      "stem": "bruno_mars_just_the_way_you_are",
+      "source": "G:\\Music discography's\\Bruno Mars - Discography\\01 - Just The Way You Are.mp3",
+      "seconds": 218.73333333333332,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 2813479,
+        "r8_bytes": 3183803,
+        "opus96_bytes": 2741169,
+        "ratio_vs_opus96": 1.0263792564413212,
+        "ratio_vs_r8": 0.8836850144308551,
+        "mean_abs_error": 521.1246435880051,
+        "mean_abs_limit": 512.0,
+        "floor_fraction_lr": 0.8777813197817987,
+        "mean_zoom_a_d2_d1_d0": [
+          2.9046759726129188,
+          2.3156944960458574,
+          1.8635290058914071,
+          0.24312669178918317
+        ],
+        "snr_db": 24.1591505485722,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\bruno_mars_just_the_way_you_are_q2048.wav"
+      }
+    },
+    {
+      "stem": "vnv_nation_beloved",
+      "source": "G:\\Music discography's\\VNV Nation\\VNV Nation - Beloved.mp3",
+      "seconds": 439.3012244897959,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 7234644,
+        "r8_bytes": 8354902,
+        "opus96_bytes": 5058636,
+        "ratio_vs_opus96": 1.4301570621013253,
+        "ratio_vs_r8": 0.8659160813615767,
+        "mean_abs_error": 535.8399856729798,
+        "mean_abs_limit": 512.0,
+        "floor_fraction_lr": 0.8711795386860518,
+        "mean_zoom_a_d2_d1_d0": [
+          3.060024049261344,
+          2.4667604852136686,
+          2.0386307777689687,
+          1.2347908242818257
+        ],
+        "snr_db": 21.596398306279706,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\vnv_nation_beloved_q2048.wav"
+      }
+    },
+    {
+      "stem": "cage_the_elephant_aint_no_rest",
+      "source": "G:\\Music discography's\\Cage The Elephant\\Cage the Elephant (2008)\\03 Ain't No Rest For The Wicked.mp3",
+      "seconds": 175.49333333333334,
+      "row": {
+        "q": 2048,
+        "archive_bytes": 3142251,
+        "r8_bytes": 3702735,
+        "opus96_bytes": 2182354,
+        "ratio_vs_opus96": 1.4398447731211343,
+        "ratio_vs_r8": 0.8486297291056476,
+        "mean_abs_error": 532.1400234079348,
+        "mean_abs_limit": 512.0,
+        "floor_fraction_lr": 0.8700179319562501,
+        "mean_zoom_a_d2_d1_d0": [
+          3.176115502927265,
+          2.867280785896206,
+          2.3784275460589424,
+          0.6948202295504912
+        ],
+        "snr_db": 21.433941517335953,
+        "wav": "C:\\Users\\damia\\Desktop\\Information compressor fsot\\results\\current\\r9\\cage_the_elephant_aint_no_rest_q2048.wav"
+      }
+    }
+  ]
+}
